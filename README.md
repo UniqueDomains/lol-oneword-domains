@@ -1,34 +1,41 @@
-# Available .LOL One-Word Domains (5,622,443)
+# Available .LOL One-Word Domains (6,245)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C247%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C443%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C246%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C245%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .lol one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .lol one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 6,247-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,443 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Last updated:** 2026-04-09  
+**Public extract:** 6,246 rows · **Live catalog:** 6,245 domains
+
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/lol`  
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/tld/lol?utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_open_search"><b>Open live .LOL search</b></a> ·
-  <a href="https://unique.domains/domains/tld/lol?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_create_radar"><b>Create .LOL Radar</b></a> ·
-  <a href="https://unique.domains/domains/tld/lol?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_start_project"><b>Start a naming Project</b></a> ·
-  <a href="./lol.csv"><b>Download CSV</b></a> ·
-  <a href="./lol.json"><b>Download JSON</b></a> ·
-  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_methodology"><b>Methodology</b></a> ·
-  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_api_docs"><b>API docs</b></a>
+  <a href="https://unique.domains/domains/tld/lol?utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <b>⬇️ Download sample</b>: <a href="./lol.csv">CSV</a> / <a href="./lol.json">JSON</a>
+  · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
+
+---
+
+➡️ **Investors:** [Create a Radar from this .LOL search](https://unique.domains/domains/tld/lol?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this .LOL search](https://unique.domains/domains/tld/lol?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_start_project)  
+➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_api_docs)
+
+---
 
 ## 📦 What this repository contains
 
@@ -36,35 +43,13 @@ This repository is the public extract for Unique Domains' .LOL one-word domain c
 
 ### Files
 
-- `lol.csv` — public CSV extract (6,247 rows)
-- `lol.json` — public JSON extract (6,247 rows)
+- `lol.csv` — public CSV extract (6,246 rows)
+- `lol.json` — public JSON extract (6,246 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
 - `CITATION.cff` — machine-readable dataset citation metadata
 - `LICENSE` — terms for the public extract
-- `assets/chart-demand-buckets.png` — generated demand-buckets chart
-
-### Use this repo to
-
-- inspect a public sample
-- download CSV or JSON
-- cite the dataset
-- understand the fields and scoring inputs
-
-### Use the live page to
-
-- keep the exact search context
-- search the full .LOL catalog
-- filter by price, demand, status, spelling risk, and fit
-- save the exact search as a Radar
-- turn the search into a founder Project
-
-## 📊 Snapshot of the live .LOL catalog
-
-![Demand buckets across the live search](./assets/chart-demand-buckets.png)
-
-**Why this chart:** it gives a fast overview of the live search composition using the same preview payload that supplies the README counts.
 
 ## 🧭 Quick start
 
@@ -77,28 +62,46 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | purchase_price | renewal_price | attractiveness | demand | length | registrar               |
-| -------------- | --------- | -------------- | ------------- | -------------- | ------ | ------ | ----------------------- |
-| tylenol.lol    | available | $1.99          | —             | 78             | 59     | 7      | name.com                |
-| built.lol      | resell    | —              | —             | 103            | 98     | 5      | Dynadot LLC             |
-| converse.lol   | premium   | $2,396         | $2,396        | 64             | 73     | 8      | name.com                |
-| frame.lol      | available | $1.99          | —             | 64             | 38     | 5      | name.com                |
-| windy.lol      | resell    | —              | —             | 90             | 98     | 5      | Global Domain Group LLC |
-| nationwide.lol | premium   | $2,396         | $2,396        | 76             | 66     | 10     | name.com                |
-| able.lol       | available | $1.99          | $45.99        | 80             | 32     | 4      | name.com                |
-| powerful.lol   | resell    | —              | —             | 82             | 97     | 8      | Dynadot LLC             |
-| local.lol      | premium   | $2,367.82      | —             | 80             | 54     | 5      | XYZ.com, LLC            |
-| spiritual.lol  | available | $40.98         | —             | 62             | 24     | 9      | namecheap               |
-| Gmail.lol      | resell    | —              | —             | 94             | 96     | 5      | Dynadot LLC             |
-| real.lol       | premium   | $845           | $845          | 78             | 49     | 4      | namecheap               |
-| allied.lol     | available | $1.99          | $45.99        | 74             | 23     | 6      | name.com                |
-| march.lol      | resell    | —              | —             | 70             | 82     | 5      | Spaceship, Inc.         |
-| water.lol      | premium   | $845           | $845          | 108            | 45     | 5      | namecheap               |
-| efficient.lol  | available | $1.99          | $45.99        | 90             | 22     | 9      | name.com                |
-| hello.lol      | resell    | —              | —             | 130            | 71     | 5      | NameSilo, LLC           |
-| star.lol       | premium   | $778.70        | $778.70       | 86             | 45     | 4      | name.com                |
-| sincere.lol    | available | $1.99          | $45.99        | 72             | 22     | 7      | name.com                |
-| fun.lol        | resell    | —              | —             | 122            | 63     | 3      | Spaceship, Inc.         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
+| tylenol.lol    | available | $1.99     | —             | 78             | 59     | 7      | name.com                |
+| built.lol      | resell    | —         | —             | 103            | 98     | 5      | Dynadot LLC             |
+| converse.lol   | premium   | $2,396    | $2,396        | 64             | 73     | 8      | name.com                |
+| frame.lol      | available | $1.99     | —             | 64             | 38     | 5      | name.com                |
+| windy.lol      | resell    | —         | —             | 90             | 98     | 5      | Global Domain Group LLC |
+| nationwide.lol | premium   | $2,396    | $2,396        | 76             | 66     | 10     | name.com                |
+| able.lol       | available | $1.99     | $45.99        | 80             | 32     | 4      | name.com                |
+| powerful.lol   | resell    | —         | —             | 82             | 97     | 8      | Dynadot LLC             |
+| local.lol      | premium   | $2,367.82 | —             | 80             | 54     | 5      | XYZ.com, LLC            |
+| spiritual.lol  | available | $40.98    | —             | 62             | 24     | 9      | namecheap               |
+| Gmail.lol      | resell    | —         | —             | 94             | 96     | 5      | Dynadot LLC             |
+| real.lol       | premium   | $845      | $845          | 78             | 49     | 4      | namecheap               |
+| efficient.lol  | available | $1.99     | $45.99        | 90             | 22     | 9      | name.com                |
+| hello.lol      | resell    | —         | —             | 130            | 70     | 5      | NameSilo, LLC           |
+| star.lol       | premium   | $778.70   | $778.70       | 86             | 44     | 4      | name.com                |
+| allied.lol     | available | $1.99     | $45.99        | 74             | 22     | 6      | name.com                |
+| fun.lol        | resell    | —         | —             | 122            | 62     | 3      | Spaceship, Inc.         |
+| summit.lol     | premium   | $682.27   | —             | 65             | 43     | 6      | Dynadot LLC             |
+| sincere.lol    | available | $1.99     | $45.99        | 72             | 22     | 7      | name.com                |
+| the.lol        | resell    | —         | —             | 98             | 58     | 3      | NameSilo, LLC           |
+
+These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
+
+## 🚀 Next move
+
+You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 6,246-row public sample | 6,245 live domains                               |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
+
+If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
+
+[Create Radar](https://unique.domains/domains/tld/lol?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/lol?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -123,7 +126,7 @@ This repository follows the exact public search represented by the canonical pag
 - Counts, prices, and statuses can change over time.
 - Scores are decision-support signals, not guarantees of resale value.
 - Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- The live product contains deeper filters, monitoring, and decision workflows than this public extract.
+- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -140,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-04-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -150,8 +153,9 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 - [Live .LOL page](https://unique.domains/domains/tld/lol?utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=related_pricing)
+- [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_lol_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `hello@unique.domains`
+Questions, corrections, or partnership requests: `gaetan@unique.domains`
