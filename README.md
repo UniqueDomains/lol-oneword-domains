@@ -3,20 +3,20 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C246%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C244%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C245%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .lol one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .lol one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 6,244-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **6,245 domains** on the canonical page below.
 
-**Public extract:** 6,246 rows · **Live catalog:** 6,245 domains
+**Public extract:** 6,244 rows · **Live catalog:** 6,245 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/lol`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .LOL one-word domain c
 
 ### Files
 
-- `lol.csv` — public CSV extract (6,246 rows)
-- `lol.json` — public JSON extract (6,246 rows)
+- `lol.csv` — public CSV extract (6,244 rows)
+- `lol.json` — public JSON extract (6,244 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -65,25 +65,25 @@ print(df.head())
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
 | tylenol.lol    | available | $1.99     | —             | 78             | 59     | 7      | name.com                |
-| built.lol      | resell    | —         | —             | 103            | 98     | 5      | Dynadot LLC             |
+| windy.lol      | resell    | —         | —             | 90             | 98     | 5      | Global Domain Group LLC |
 | converse.lol   | premium   | $2,396    | $2,396        | 64             | 73     | 8      | name.com                |
 | frame.lol      | available | $1.99     | —             | 64             | 38     | 5      | name.com                |
-| windy.lol      | resell    | —         | —             | 90             | 98     | 5      | Global Domain Group LLC |
+| Gmail.lol      | resell    | —         | —             | 94             | 96     | 5      | Dynadot LLC             |
 | nationwide.lol | premium   | $2,396    | $2,396        | 76             | 66     | 10     | name.com                |
 | able.lol       | available | $1.99     | $45.99        | 80             | 32     | 4      | name.com                |
-| powerful.lol   | resell    | —         | —             | 82             | 97     | 8      | Dynadot LLC             |
+| hello.lol      | resell    | —         | —             | 130            | 70     | 5      | NameSilo, LLC           |
 | local.lol      | premium   | $2,367.82 | —             | 80             | 54     | 5      | XYZ.com, LLC            |
 | spiritual.lol  | available | $40.98    | —             | 62             | 24     | 9      | namecheap               |
-| Gmail.lol      | resell    | —         | —             | 94             | 96     | 5      | Dynadot LLC             |
-| real.lol       | premium   | $845      | $845          | 78             | 49     | 4      | namecheap               |
-| efficient.lol  | available | $1.99     | $45.99        | 90             | 22     | 9      | name.com                |
-| hello.lol      | resell    | —         | —             | 130            | 70     | 5      | NameSilo, LLC           |
-| star.lol       | premium   | $778.70   | $778.70       | 86             | 44     | 4      | name.com                |
-| allied.lol     | available | $1.99     | $45.99        | 74             | 22     | 6      | name.com                |
 | fun.lol        | resell    | —         | —             | 122            | 62     | 3      | Spaceship, Inc.         |
+| real.lol       | premium   | $845      | $845          | 78             | 49     | 4      | namecheap               |
+| allied.lol     | available | $1.99     | $45.99        | 74             | 23     | 6      | name.com                |
+| the.lol        | resell    | —         | —             | 98             | 58     | 3      | NameSilo, LLC           |
+| star.lol       | premium   | $778.70   | $778.70       | 86             | 43     | 4      | name.com                |
+| efficient.lol  | available | $1.99     | $45.99        | 90             | 22     | 9      | name.com                |
+| live.lol       | resell    | —         | —             | 108            | 56     | 4      | NameSilo, LLC           |
 | summit.lol     | premium   | $682.27   | —             | 65             | 43     | 6      | Dynadot LLC             |
 | sincere.lol    | available | $1.99     | $45.99        | 72             | 22     | 7      | name.com                |
-| the.lol        | resell    | —         | —             | 98             | 58     | 3      | NameSilo, LLC           |
+| arm.lol        | resell    | —         | —             | 86             | 53     | 3      | Dynadot LLC             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 6,246-row public sample | 6,245 live domains                               |
+| 6,244-row public sample | 6,245 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
