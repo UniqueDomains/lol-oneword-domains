@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lol one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 8,552 domains · **Median ask:** $51.07 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/lol`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | neuroscience.lol  | available | $1.99     | —             | 80             | 37     | 12     | name.com        |
 | destination.lol   | resell    | —         | —             | 90             | 25     | 11     | Spaceship, Inc. |
 | bills.lol         | premium   | $2,396    | —             | 54             | 19     | 5      | name.com        |
-| WestEnd.lol       | available | $40.98    | —             | 70             | 21     | 8      | namecheap       |
+| HarryPotter.lol   | available | $40.98    | —             | 72             | 20     | 12     | namecheap       |
 | webshop.lol       | resell    | —         | —             | 76             | 22     | 8      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
