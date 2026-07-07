@@ -1,10 +1,10 @@
-# Available .LOL One-Word Domains (8,551)
+# Available .LOL One-Word Domains (8,552)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C551%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C552%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .lol one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,551 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,552 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,551 domains · **Median ask:** $51.07 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 8,552 domains · **Median ask:** $82.05 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/lol`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/lol`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LOL one-word domain c
 
 ### Files
 
-- `lol.csv` — public CSV extract (1,000 rows)
-- `lol.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `lol.csv`, public CSV extract (1,000 rows)
+- `lol.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| geton.lol         | available | $1.99     | —             | 82             | 10     | 6      | name.com        |
-| gearup.lol        | available | $1.99     | —             | 80             | 16     | 7      | name.com        |
-| playin.lol        | available | $1.99     | —             | 80             | 10     | 7      | name.com        |
-| toneup.lol        | available | $1.99     | —             | 80             | 5      | 7      | name.com        |
-| hangon.lol        | available | $1.99     | —             | 82             | 6      | 7      | name.com        |
-| stirup.lol        | available | $1.99     | —             | 82             | 3      | 7      | name.com        |
-| dogsick.lol       | available | $1.99     | —             | 90             | 1      | 7      | name.com        |
-| headout.lol       | available | $1.99     | —             | 82             | 6      | 8      | name.com        |
-| lightup.lol       | available | $1.99     | —             | 82             | 15     | 8      | name.com        |
-| surebet.lol       | available | $1.99     | —             | 82             | 7      | 8      | name.com        |
-| beawake.lol       | available | $1.99     | —             | 84             | 3      | 8      | name.com        |
-| criteria.lol      | available | $1.99     | —             | 88             | 10     | 8      | name.com        |
-| keepthechange.lol | available | $1.99     | —             | 46             | 59     | 15     | name.com        |
-| cams.lol          | resell    | —         | —             | 52             | 29     | 4      | Spaceship, Inc. |
-| farmers.lol       | premium   | $2,396    | —             | 54             | 59     | 7      | name.com        |
-| neuroscience.lol  | available | $1.99     | —             | 80             | 37     | 12     | name.com        |
-| destination.lol   | resell    | —         | —             | 90             | 24     | 11     | Spaceship, Inc. |
-| bills.lol         | premium   | $2,396    | —             | 54             | 19     | 5      | name.com        |
-| HarryPotter.lol   | available | $40.98    | —             | 72             | 20     | 12     | namecheap       |
-| webshop.lol       | resell    | —         | —             | 76             | 22     | 8      | Spaceship, Inc. |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| rid.lol  | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| did.lol  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
+| apt.lol  | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
+| bead.lol | available | $1.99     | $32.49        | high           | low    | 4      | namesilo        |
+| jay.lol  | resell    | —         | —             | medium         | low    | 3      | Namecheap       |
+| bed.lol  | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
+| giza.lol | available | $1.99     | $32.49        | high           | low    | 4      | namesilo        |
+| one.lol  | resell    | —         | —             | high           | medium | 3      | Porkbun, LLC    |
+| fog.lol  | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
+| heel.lol | available | $1.99     | —             | medium         | low    | 4      | name.com        |
+| top.lol  | resell    | —         | —             | high           | medium | 3      | NameSilo, LLC   |
+| job.lol  | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
+| omit.lol | available | $1.99     | —             | high           | low    | 4      | name.com        |
+| earn.lol | resell    | —         | —             | medium         | low    | 4      | Porkbun, LLC    |
+| let.lol  | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
+| rang.lol | available | $1.99     | —             | low            | low    | 4      | name.com        |
+| foto.lol | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| mao.lol  | premium   | $778.70   | —             | medium         | low    | 3      | name.com        |
+| rile.lol | available | $1.99     | —             | medium         | low    | 4      | name.com        |
+| thug.lol | resell    | —         | —             | high           | low    | 4      | Namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 8,551 live domains                         |
+| 1,000-row public sample | 8,552 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .lol domains. The strongest names are short, easy to say, and naturally fit the light, humorous tone of the extension. Examples such as getup.lol, useit.lol, gearup.lol, and finals.lol show the range: action words, simple phrases, and punchy everyday terms. For founders, the main question is whether the name is memorable enough to offset the niche feel of .lol. For investors, the key test is whether the word has enough clarity and broad appeal to support resale despite lower mainstream demand. With a median ask of 50.89, entry pricing is accessible, but extension fit matters more than price alone.
+This list groups one-word .lol domain names spanning 8,552 entries, with pricing centered near a median ask of $82. Names range from short, punchy words like barup.lol and flaxseed.lol to compound, descriptive terms such as coffeecupful.lol and keepfaith.lol. Whether evaluating for a quick brand pick or a broader .lol position, comparing price against memorability and word clarity is the fastest way to narrow this selection.
 
-- Best fits playful, casual, meme-native brand positioning
-- Median ask is 50.89 across 8,550 listed .lol domains
-- Favor short words with clean pronunciation and recall
-- Check whether the humor of .lol helps or weakens trust
+- 8,552 one-word .lol domain names, updated daily
+- Median asking price near $82 across this selection
+- Blend of short brandable names and longer descriptive terms
+- Useful for building a fast, budget-aware .lol shortlist
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
