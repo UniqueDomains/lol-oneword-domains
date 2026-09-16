@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lol one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,106 domains · **Median ask:** $36.94 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/lol`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| quiet.lol     | resell    | —         | —             | high           | low    | 5      | West263 International Limited |
-| one.lol       | resell    | —         | —             | high           | medium | 3      | Porkbun, LLC                  |
-| hello.lol     | resell    | —         | —             | high           | high   | 5      | NameSilo, LLC                 |
-| bully.lol     | resell    | —         | —             | high           | low    | 5      | Namecheap                     |
-| chocolate.lol | premium   | $778.70   | —             | high           | low    | 9      | name.com                      |
-| leg.lol       | available | —         | —             | high           | low    | 3      | —                             |
-| ixc.lol       | available | $1.80     | $40.98        | low            | low    | 3      | namecheap                     |
-| did.lol       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.               |
-| apt.lol       | premium   | $778.70   | —             | high           | low    | 3      | name.com                      |
-| lxi.lol       | available | $1.80     | $40.98        | low            | low    | 3      | namecheap                     |
-| jay.lol       | resell    | —         | —             | medium         | low    | 3      | Namecheap                     |
-| bay.lol       | premium   | $778.70   | $778.70       | low            | low    | 3      | name.com                      |
-| rid.lol       | available | $1.99     | —             | high           | low    | 3      | name.com                      |
-| bed.lol       | premium   | $778.70   | —             | high           | low    | 3      | name.com                      |
-| bead.lol      | available | $1.99     | $32.49        | high           | low    | 4      | namesilo                      |
-| top.lol       | resell    | —         | —             | high           | medium | 3      | NameSilo, LLC                 |
-| fog.lol       | premium   | $778.70   | —             | high           | low    | 3      | name.com                      |
-| giza.lol      | available | $1.99     | $32.49        | high           | low    | 4      | namesilo                      |
-| earn.lol      | resell    | —         | —             | medium         | low    | 4      | Porkbun, LLC                  |
-| job.lol       | premium   | $778.70   | —             | high           | low    | 3      | name.com                      |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| ixc.lol  | available | $1.80     | $40.98        | low            | low    | 3      | namecheap       |
+| did.lol  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
+| apt.lol  | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
+| lxi.lol  | available | $1.80     | $40.98        | low            | low    | 3      | namecheap       |
+| jay.lol  | resell    | —         | —             | medium         | low    | 3      | Namecheap       |
+| bay.lol  | premium   | $778.70   | $778.70       | low            | low    | 3      | name.com        |
+| rid.lol  | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| one.lol  | resell    | —         | —             | high           | medium | 3      | Porkbun, LLC    |
+| bed.lol  | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
+| bead.lol | available | $1.99     | $32.49        | high           | low    | 4      | namesilo        |
+| top.lol  | resell    | —         | —             | high           | medium | 3      | NameSilo, LLC   |
+| fog.lol  | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
+| giza.lol | available | $1.99     | $32.49        | high           | low    | 4      | namesilo        |
+| earn.lol | resell    | —         | —             | medium         | low    | 4      | Porkbun, LLC    |
+| job.lol  | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
+| heel.lol | available | $1.99     | —             | medium         | low    | 4      | name.com        |
+| foto.lol | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| let.lol  | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
+| lxii.lol | available | $1.80     | $40.98        | low            | low    | 4      | namecheap       |
+| thug.lol | resell    | —         | —             | high           | low    | 4      | Namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
