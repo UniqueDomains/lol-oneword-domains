@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lol one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,798 domains · **Median ask:** $34.25 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/lol`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| ixc.lol   | available | $1.80     | $40.98        | low            | low    | 3      | namecheap       |
-| did.lol   | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
-| apt.lol   | premium   | $832      | $832          | low            | low    | 3      | namesilo        |
-| lxi.lol   | available | $1.80     | $40.98        | low            | low    | 3      | namecheap       |
-| one.lol   | resell    | —         | —             | medium         | low    | 3      | Porkbun LLC     |
-| bay.lol   | premium   | $778.70   | $778.70       | low            | low    | 3      | name.com        |
-| rid.lol   | available | $1.99     | —             | high           | low    | 3      | name.com        |
-| top.lol   | resell    | —         | —             | high           | medium | 3      | NameSilo, LLC   |
-| bed.lol   | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
-| bead.lol  | available | $1.99     | $32.49        | high           | low    | 4      | namesilo        |
-| dear.lol  | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc     |
-| fog.lol   | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
-| giza.lol  | available | $1.99     | $32.49        | high           | low    | 4      | namesilo        |
-| foto.lol  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| job.lol   | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
-| heel.lol  | available | $1.99     | —             | medium         | low    | 4      | name.com        |
-| hello.lol | resell    | —         | —             | high           | high   | 5      | NameSilo, LLC   |
-| let.lol   | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
-| lxii.lol  | available | $1.80     | $40.98        | low            | low    | 4      | namecheap       |
-| train.lol | resell    | —         | —             | medium         | low    | 5      | Dynadot LLC     |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| water.lol      | premium   | $832      | $832          | high           | medium | 5      | namesilo        |
+| trip.lol       | premium   | $832      | $832          | high           | low    | 4      | namesilo        |
+| employ.lol     | available | $1.80     | $40.98        | high           | low    | 6      | namecheap       |
+| nature.lol     | premium   | $2,600    | $2,600        | high           | low    | 6      | namecheap       |
+| cooking.lol    | premium   | $832      | $832          | high           | low    | 7      | namesilo        |
+| mat.lol        | premium   | $778.70   | $778.70       | high           | low    | 3      | name.com        |
+| appearance.lol | available | $1.80     | $40.98        | high           | low    | 10     | namecheap       |
+| departure.lol  | available | $1.80     | $40.98        | high           | low    | 9      | namecheap       |
+| ixc.lol        | available | $1.80     | $40.98        | medium         | low    | 3      | namecheap       |
+| bud.lol        | resell    | —         | —             | high           | low    | 3      | Dynadot Inc     |
+| and.lol        | premium   | $778.70   | —             | high           | medium | 3      | name.com        |
+| lvi.lol        | available | $1.80     | $40.98        | high           | low    | 3      | namecheap       |
+| did.lol        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
+| ash.lol        | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
+| lxi.lol        | available | $1.80     | $40.98        | medium         | low    | 3      | namecheap       |
+| pal.lol        | resell    | —         | —             | high           | low    | 3      | Porkbun, LLC    |
+| bay.lol        | premium   | $778.70   | $778.70       | high           | low    | 3      | name.com        |
+| rid.lol        | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| top.lol        | resell    | —         | —             | high           | medium | 3      | NameSilo, LLC   |
+| bed.lol        | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
