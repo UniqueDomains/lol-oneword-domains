@@ -1,10 +1,10 @@
-# Available .LOL One-Word Domains (24,798)
+# Available .LOL One-Word Domains (15,095)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C798%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C095%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .lol one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,798 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **15,095 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,798 domains · **Median ask:** $34.25 · **High-demand under $2,500:** 18
+**Public extract:** 1,000 rows · **Live catalog:** 15,095 domains · **Median ask:** $67.87 · **High-demand under $2,500:** 17
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/lol`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| water.lol      | premium   | $832      | $832          | high           | medium | 5      | namesilo        |
-| trip.lol       | premium   | $832      | $832          | high           | low    | 4      | namesilo        |
-| employ.lol     | available | $1.80     | $40.98        | high           | low    | 6      | namecheap       |
-| nature.lol     | premium   | $2,600    | $2,600        | high           | low    | 6      | namecheap       |
-| cooking.lol    | premium   | $832      | $832          | high           | low    | 7      | namesilo        |
-| mat.lol        | premium   | $778.70   | $778.70       | high           | low    | 3      | name.com        |
-| appearance.lol | available | $1.80     | $40.98        | high           | low    | 10     | namecheap       |
-| departure.lol  | available | $1.80     | $40.98        | high           | low    | 9      | namecheap       |
-| ixc.lol        | available | $1.80     | $40.98        | medium         | low    | 3      | namecheap       |
-| bud.lol        | resell    | —         | —             | high           | low    | 3      | Dynadot Inc     |
-| and.lol        | premium   | $778.70   | —             | high           | medium | 3      | name.com        |
-| lvi.lol        | available | $1.80     | $40.98        | high           | low    | 3      | namecheap       |
-| did.lol        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
-| ash.lol        | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
-| lxi.lol        | available | $1.80     | $40.98        | medium         | low    | 3      | namecheap       |
-| pal.lol        | resell    | —         | —             | high           | low    | 3      | Porkbun, LLC    |
-| bay.lol        | premium   | $778.70   | $778.70       | high           | low    | 3      | name.com        |
-| rid.lol        | available | $1.99     | —             | high           | low    | 3      | name.com        |
-| top.lol        | resell    | —         | —             | high           | medium | 3      | NameSilo, LLC   |
-| bed.lol        | premium   | $778.70   | —             | high           | low    | 3      | name.com        |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| adz.lol    | available | $1.80     | $40.98        | medium         | low    | 3      | namecheap                                           |
+| hbo.lol    | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.                                     |
+| ash.lol    | premium   | $778.70   | —             | high           | low    | 3      | name.com                                            |
+| awl.lol    | available | $1.80     | $40.98        | high           | low    | 3      | namecheap                                           |
+| burn.lol   | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                     |
+| bun.lol    | premium   | $845      | $845          | high           | low    | 3      | namecheap                                           |
+| cva.lol    | available | $1.80     | $40.98        | medium         | low    | 3      | namecheap                                           |
+| sleek.lol  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                         |
+| gym.lol    | premium   | $778.70   | —             | high           | low    | 3      | name.com                                            |
+| afrl.lol   | available | $1.99     | $32.49        | medium         | low    | 4      | namesilo                                            |
+| spoke.lol  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                         |
+| mar.lol    | premium   | $832      | $832          | high           | low    | 3      | namesilo                                            |
+| alar.lol   | available | $1.80     | $40.98        | medium         | low    | 4      | namecheap                                           |
+| zhang.lol  | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| mil.lol    | premium   | $778.70   | $778.70       | high           | low    | 3      | name.com                                            |
+| anpu.lol   | available | $1.99     | $32.49        | medium         | low    | 4      | namesilo                                            |
+| bamboo.lol | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                         |
+| mon.lol    | premium   | $778.70   | —             | high           | low    | 3      | name.com                                            |
+| apar.lol   | available | $1.99     | $32.49        | medium         | low    | 4      | namesilo                                            |
+| greens.lol | resell    | —         | —             | high           | low    | 6      | Key-Systems, LLC                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,798 live domains                        |
+| 1,000-row public sample | 15,095 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 18 high-demand names under $2,500          |
+| Basic exported fields   | 17 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOL One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
