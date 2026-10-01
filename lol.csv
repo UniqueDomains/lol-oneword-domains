@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 fa74f0bc-9df5-4f3a-9b89-c9b4584c51a1,alkalizer.lol,available,1.8,40.98,medium,low,9,namecheap,,,
 7fd4e601-d601-475b-a944-b32b5efa7ae3,interfaith.lol,available,1.8,40.98,high,low,10,namecheap,,,22/08/2026 08:02
-20c3864e-8f8e-42b5-8088-395284d54e40,enraptured.lol,available,1.8,40.98,high,low,10,namecheap,,,14/08/2026 23:46
+20c3864e-8f8e-42b5-8088-395284d54e40,enraptured.lol,available,1.8,40.98,medium,low,10,namecheap,,,14/08/2026 23:46
 9efd08c6-3967-4525-8ac3-d6164d67bacc,ppg.lol,premium,2070.2,2070.2,high,low,3,spaceship,,,29/09/2026 23:32
 c7bd4972-6b5e-4161-8be6-9b6e8d5daee2,briggs.lol,available,1.8,40.98,high,low,6,namecheap,,,25/09/2026 15:50
 d308a9b7-ec25-4800-a42f-dbd03e43c732,viciously.lol,available,1.8,40.98,medium,low,9,namecheap,,,14/09/2026 01:35
@@ -10,14 +10,14 @@ b6466909-6e3e-48bd-9670-6c1e6412f72f,beachhead.lol,available,1.8,40.98,medium,lo
 0b69c5cf-279d-433a-9892-68715851f4aa,fracas.lol,available,1.99,32.49,medium,low,6,namesilo,,,17/09/2026 14:44
 92412796-a06f-4814-ae0f-27102098f4a5,archerfish.lol,available,1.99,32.49,medium,low,10,namesilo,,,20/09/2026 01:56
 b20c8801-3c2e-4917-9650-f03ff5ffd0c4,leering.lol,available,1.99,32.49,medium,low,7,namesilo,,,25/09/2026 05:58
-c9c5bdb9-2a39-4530-97c5-b2043861bc42,hannover.lol,available,1.8,40.98,high,low,8,namecheap,,,29/09/2026 01:14
+c9c5bdb9-2a39-4530-97c5-b2043861bc42,hannover.lol,available,1.8,40.98,medium,low,8,namecheap,,,29/09/2026 01:14
 69e6ccf2-72b8-4ac5-b448-a157d2717462,aerology.lol,available,1.99,32.49,medium,low,8,namesilo,,,17/09/2026 13:08
-e7c1ddf8-5827-415d-a2e0-1f6f7112f9a0,proclaim.lol,available,1.99,,high,low,8,name.com,,,
-62bace42-9941-49e6-8bb0-bec6035cd950,mon.lol,premium,778.7,,high,low,3,name.com,,,
+e7c1ddf8-5827-415d-a2e0-1f6f7112f9a0,proclaim.lol,available,1.24,26.08,high,low,8,spaceship,,,30/09/2026 19:20
+62bace42-9941-49e6-8bb0-bec6035cd950,mon.lol,premium,832,832,high,low,3,namesilo,,,30/09/2026 05:02
 3002c744-fb86-46c2-b9a0-b91a405ca715,gershwin.lol,available,1.99,32.49,high,low,8,namesilo,,,30/09/2026 01:44
 11e08468-0f46-4197-ba74-397a94024799,raconteur.lol,available,1.99,32.49,high,low,9,namesilo,,,19/09/2026 05:14
-8e027484-8805-42c6-b3a0-feb9566e9671,theorise.lol,available,1.99,32.49,high,low,8,namesilo,,,24/09/2026 17:20
-6f6e754a-0848-47e1-8bed-41b084b6e0fa,neighbour.lol,available,1.99,,high,low,9,name.com,,,
+8e027484-8805-42c6-b3a0-feb9566e9671,theorise.lol,available,1.99,32.49,medium,low,8,namesilo,,,24/09/2026 17:20
+6f6e754a-0848-47e1-8bed-41b084b6e0fa,neighbour.lol,available,1.99,32.49,high,low,9,namesilo,,,30/09/2026 05:34
 ef2c1718-01e7-4dd0-b67d-4d1981db5409,esthesis.lol,available,1.99,32.49,low,low,8,namesilo,,,17/09/2026 13:28
 8779250d-681f-47f3-85b5-9889aff27513,husbands.lol,available,1.54,26.26,medium,low,8,porkbun,,,27/09/2026 18:17
 0d769c1e-9d95-4419-9d67-102030c096cd,loosen.lol,available,1.99,32.49,high,low,6,namesilo,,,29/09/2026 20:44
@@ -25,10 +25,12 @@ ef2c1718-01e7-4dd0-b67d-4d1981db5409,esthesis.lol,available,1.99,32.49,low,low,8
 ed6e7eda-ebc1-4b62-95d3-e8804ebec378,sensitivity.lol,available,1.8,40.98,high,low,11,namecheap,,,28/09/2026 12:30
 4b80605f-5053-4ab0-ae32-4bf9f99da84f,jingling.lol,available,1.8,40.98,high,low,8,namecheap,,,08/09/2026 03:33
 f6a01c8c-4d8d-4369-a11a-62937fdd13ab,grabs.lol,available,1.24,26.08,medium,low,5,spaceship,,,29/09/2026 11:38
+fd97c73d-206b-418a-84a6-51df52cd9174,thessaly.lol,available,1.24,26.08,medium,low,8,spaceship,,,30/09/2026 11:10
 99d684b4-9bad-4414-9c5e-029d4aa405ce,indulging.lol,available,1.8,40.98,high,low,9,namecheap,,,05/09/2026 00:26
-2fc5db6c-90f1-484b-ab60-60ecec59a8b2,odorless.lol,available,1.8,40.98,high,low,8,namecheap,,,22/08/2026 06:02
+2fc5db6c-90f1-484b-ab60-60ecec59a8b2,odorless.lol,available,1.8,40.98,medium,low,8,namecheap,,,22/08/2026 06:02
 0c470f23-60a4-4d9d-9a7b-97008770a7f8,kuomintang.lol,available,1.99,32.49,high,low,10,namesilo,,,28/09/2026 14:23
 7ac0ac0e-b8bc-4d8a-8ec3-77036669eb55,puzzled.lol,available,1.8,40.98,high,low,7,namecheap,,,07/08/2026 10:53
+e4f97284-ab86-4480-9958-0a9024562801,jameson.lol,premium,2070.2,2070.2,high,medium,7,spaceship,,,30/09/2026 04:46
 75ad1af5-ebcb-4cb4-8b60-653de2cee757,larboard.lol,available,1.8,40.98,medium,low,8,namecheap,,,22/08/2026 19:51
 f6d59adf-b78e-48de-90c0-e513b9f931d4,nominated.lol,available,1.8,40.98,high,low,9,namecheap,,,03/09/2026 18:18
 cbd0ca6a-4ab8-4f44-a128-153fd5b54635,swimmer.lol,available,1.99,32.49,high,low,7,namesilo,,,22/09/2026 13:29
@@ -38,7 +40,7 @@ cc158832-a433-410f-8228-4c643a54f9ae,published.lol,available,1.99,32.49,high,low
 f69c0265-2cf1-47ec-bfa9-b64231489231,bickering.lol,available,1.99,32.49,medium,low,9,namesilo,,,23/09/2026 13:12
 6fc0321f-6f22-492c-b815-146eaec5d012,righted.lol,available,1.99,32.49,medium,low,7,namesilo,,,20/09/2026 15:58
 a93d0704-64f6-4f3c-873e-8b32ec83f443,augustine.lol,available,1.99,32.49,high,low,9,namesilo,,,21/09/2026 04:01
-499ac842-cb04-4509-a905-9c8632412e2f,computerized.lol,available,1.99,32.49,high,low,12,namesilo,,,28/09/2026 02:46
+499ac842-cb04-4509-a905-9c8632412e2f,computerized.lol,available,1.99,32.49,medium,low,12,namesilo,,,28/09/2026 02:46
 d46e9e7a-ad30-4eea-8bb1-ab21b1fa04b7,tremendous.lol,available,1.8,40.98,high,low,10,namecheap,,,17/08/2026 09:48
 ee2a461f-aa32-4d14-883b-5a99596d492c,beastly.lol,available,1.8,40.98,medium,low,7,namecheap,,,09/08/2026 04:54
 55e5f974-6327-44a4-8836-9fff5666cb51,jowett.lol,available,1.99,32.49,medium,low,6,namesilo,,,23/09/2026 08:21
@@ -58,14 +60,14 @@ dba2085c-0bea-4b51-84c5-0a48948f3428,indicating.lol,available,1.99,32.49,medium,
 e5ff34b3-9f66-4172-b2ca-e5e707db40a2,flaxen.lol,available,1.8,40.98,medium,low,6,namecheap,,,18/08/2026 07:23
 8b0b30c1-06c4-40a8-9c38-b62995130afa,dodging.lol,available,1.8,40.98,medium,low,7,namecheap,,,21/09/2026 09:51
 264d350e-e534-473c-b170-d5e632aa7420,infallible.lol,available,1.8,40.98,high,low,10,namecheap,,,22/08/2026 04:05
-465af48e-7ce2-4738-b377-b1d7ea84c806,welch.lol,available,1.8,40.98,high,low,5,namecheap,,,13/09/2026 10:47
+465af48e-7ce2-4738-b377-b1d7ea84c806,welch.lol,available,1.8,40.98,medium,low,5,namecheap,,,13/09/2026 10:47
 a49faf26-c737-4b40-addc-0d890d7de41c,avahi.lol,available,1.99,32.49,medium,low,5,namesilo,,,21/09/2026 08:36
 084ca7bd-b025-4d1b-a0a3-7918fa6e8e84,exergonic.lol,available,1.8,40.98,medium,low,9,namecheap,,,17/08/2026 17:06
-58f8611e-5780-48e5-9741-4f2987dade25,galling.lol,available,1.8,40.98,high,low,7,namecheap,,,
+58f8611e-5780-48e5-9741-4f2987dade25,galling.lol,available,1.8,40.98,medium,low,7,namecheap,,,
 56ccb221-4a43-4b7d-ac6e-d425858e6fe3,herzegovina.lol,available,1.54,26.26,medium,low,11,porkbun,,,27/09/2026 18:47
 be7b81b0-b29f-4011-827e-b0f8a89008d4,agendum.lol,available,1.99,32.49,medium,low,7,namesilo,,,17/09/2026 17:05
 c8262417-ab5a-4af2-adc7-471149ad7327,grooved.lol,available,1.8,40.98,medium,low,7,namecheap,,,20/08/2026 20:17
-4682d373-bf44-4602-ba82-2996971904b8,churning.lol,available,1.8,40.98,high,low,8,namecheap,,,12/08/2026 07:51
+4682d373-bf44-4602-ba82-2996971904b8,churning.lol,available,1.8,40.98,medium,low,8,namecheap,,,12/08/2026 07:51
 97f1e8d3-6b3f-4f9f-b83b-b6108b7f09fa,ancestors.lol,available,1.99,32.49,medium,low,9,namesilo,,,28/09/2026 08:45
 7f9d7243-1162-4c17-a55a-52be8f9e0bd3,acetamide.lol,available,1.99,32.49,medium,low,9,namesilo,,,16/09/2026 23:49
 8fe3af9b-ca3d-4d05-b455-cc2673ca8c3c,tangential.lol,available,1.8,40.98,medium,low,10,namecheap,,,14/08/2026 07:29
@@ -80,17 +82,19 @@ d202b120-bc5c-4d82-abe6-935d1d1b80be,hungarian.lol,available,1.8,40.98,high,low,
 7f288049-47ee-4631-aa2d-5bca14d3104a,overturned.lol,available,1.8,40.98,medium,low,10,namecheap,,,04/09/2026 21:55
 57c4047e-6372-4415-af88-ffd9efae0e6d,wailing.lol,available,1.8,40.98,medium,low,7,namecheap,,,22/08/2026 19:04
 2a836f39-bb8a-47eb-a651-a505f08921c0,unstrung.lol,available,1.8,40.98,medium,low,8,namecheap,,,12/09/2026 20:39
-58beb460-2741-4a6b-836c-00292ed78231,metaphoric.lol,available,1.8,40.98,high,low,10,namecheap,,,24/08/2026 21:45
+58beb460-2741-4a6b-836c-00292ed78231,metaphoric.lol,available,1.8,40.98,medium,low,10,namecheap,,,24/08/2026 21:45
 b96f776f-04a5-4a20-891c-e6abd19372d6,achieved.lol,available,1.24,26.08,high,low,8,spaceship,,,28/09/2026 12:45
+2cdbf5f5-5363-4672-a5d2-6a6bc554c16d,martyrs.lol,available,1.24,26.08,low,low,7,spaceship,,,30/09/2026 15:31
+a76d2a7f-5e03-4af1-8349-0f6bc8e7d1db,coordinating.lol,available,1.24,26.08,medium,low,12,spaceship,,,30/09/2026 07:45
 20784517-f65f-4458-a4a9-c8023313c325,fresh.lol,premium,845,845,high,medium,5,namecheap,,,23/09/2026 01:54
 e50a6139-efe8-47d7-ae16-6afd24129b5a,freshness.lol,available,1.99,32.49,high,low,9,namesilo,,,24/09/2026 14:06
-c538a803-9b1c-488b-ab9f-03041eb11a0f,divorce.lol,premium,2396,2396,high,low,7,name.com,,,14/08/2026 11:12
+c538a803-9b1c-488b-ab9f-03041eb11a0f,divorce.lol,premium,2396,2396,medium,low,7,name.com,,,14/08/2026 11:12
 b1b84cc4-1358-47e9-9348-10a423057ce7,acinus.lol,available,1.99,32.49,medium,low,6,namesilo,,,17/09/2026 01:46
 96487ea7-8a98-4194-bc66-d534a686281c,airtight.lol,available,1.8,40.98,high,low,8,namecheap,,,
 e3c8b268-9552-4709-9769-015f215aea61,howso.lol,available,1.99,,medium,low,6,name.com,,,
 1957f4b8-6daa-4aab-9fab-678d0618e779,lionel.lol,available,1.99,32.49,medium,low,6,namesilo,,,28/09/2026 16:08
 401ae20c-70ce-496d-a60e-2f66acbc1ca8,physiological.lol,available,1.24,26.08,medium,low,13,spaceship,,,29/09/2026 20:58
-35053aa5-c119-4821-a788-facdee41146c,pneumonia.lol,available,1.5,26.97,high,low,9,dynadot,,,28/09/2026 06:36
+35053aa5-c119-4821-a788-facdee41146c,pneumonia.lol,available,1.5,26.97,medium,low,9,dynadot,,,28/09/2026 06:36
 4ea6bd73-5f6f-4420-bd94-4a732e204ae3,acidosis.lol,available,1.99,32.49,medium,low,8,namesilo,,,17/09/2026 01:28
 974d4ad7-63cd-4038-9235-c33fe33ff49f,accept.lol,premium,2183.84,2183.84,high,low,6,porkbun,,,29/09/2026 11:06
 0fa139cb-feec-4688-aa07-4d88ec4e4e03,initiator.lol,available,1.99,32.49,high,low,9,namesilo,,,29/09/2026 13:07
@@ -101,6 +105,7 @@ e9c2ffc3-2bc2-484e-b8ff-85d20eff5d75,iso.lol,available,,,high,high,3,,,,
 e4371716-b605-44e9-8024-0f5a9ce58fa1,dixon.lol,available,1.99,32.49,medium,low,5,namesilo,,,25/09/2026 17:44
 2ff61b8a-0322-468c-9c1b-98c22a568eec,aimlessly.lol,available,1.8,40.98,medium,low,9,namecheap,,,13/09/2026 18:28
 8b8cd921-e70e-4aef-a171-eca1071d6d32,perinatal.lol,available,1.8,40.98,medium,low,9,namecheap,,,08/09/2026 17:07
+1af8a629-739b-4175-9e8b-b765c64b7a5e,hogg.lol,available,1.99,32.49,medium,low,4,namesilo,,,01/10/2026 02:37
 37227c7a-436c-4650-89fa-947e0a90071a,swaggie.lol,available,1.8,40.98,medium,low,7,namecheap,,,11/09/2026 05:03
 51ddb15a-02d3-479d-aa99-81c6e6fe8455,muggy.lol,available,1.8,40.98,medium,low,5,namecheap,,,03/09/2026 10:31
 430af905-bc30-492d-ab29-0823d5547c68,hemingway.lol,available,1.24,26.08,high,low,9,spaceship,,,29/09/2026 12:13
@@ -112,20 +117,24 @@ a013a4bf-522b-41d3-8fd9-a2b5879427b2,weaving.lol,available,1.24,26.08,high,low,7
 94800f06-57ff-4dcc-89d1-d3d3d3e119ce,airstream.lol,available,1.99,32.49,high,low,9,namesilo,,,17/09/2026 23:23
 98994c40-4088-4156-b190-ccddd1869a02,ruffianly.lol,available,1.8,40.98,high,medium,9,namecheap,,,09/09/2026 19:19
 cc676074-e7b8-48c4-ba35-c32b86df08ca,receptive.lol,available,1.8,40.98,high,low,9,namecheap,,,09/09/2026 11:23
+8ec7753e-f966-4d62-9ac1-90d7c2e5a22d,attracting.lol,available,1.54,19.98,medium,low,10,porkbun,,,30/09/2026 06:33
 48ed157f-f05e-495a-ad91-b8dcf3d32987,spectacled.lol,available,1.8,40.98,medium,low,10,namecheap,,,09/08/2026 17:20
 6b2b18f2-0857-473a-98c6-5c71531cfb36,lengths.lol,available,1.24,26.08,low,low,7,spaceship,,,29/09/2026 05:45
 d694229f-8c46-400f-8836-23ba7a53bee8,destitute.lol,available,1.8,40.98,medium,low,9,namecheap,,,14/08/2026 04:32
 2927d7ca-b909-4bd8-8ea4-f3184f30e533,aplite.lol,available,1.99,32.49,medium,low,6,namesilo,,,19/09/2026 17:42
 c7fde66a-fd25-4655-a831-f4b8de625fdd,woodstock.lol,available,1.8,40.98,high,low,9,namecheap,,,25/09/2026 21:23
+0f2b9b4c-2380-48b4-99eb-7cc733fb69fb,mahayana.lol,available,1.24,26.08,medium,low,8,spaceship,,,01/10/2026 02:57
 e601c797-ac84-41eb-93bb-346ff90451a5,anuria.lol,available,1.99,32.49,medium,low,6,namesilo,,,19/09/2026 15:55
 df4a4243-2089-4217-9105-7f6f8e23bea2,sentenced.lol,available,1.24,26.08,low,low,9,spaceship,,,28/09/2026 17:52
 7735b2c6-a72c-4b37-b936-735963495f59,monocled.lol,available,1.8,40.98,medium,low,8,namecheap,,,09/08/2026 17:15
 ab02511d-2862-43ce-9338-5e7167db86d2,jovially.lol,available,1.8,40.98,high,low,8,namecheap,,,15/09/2026 09:51
 91e7aae0-ad3b-45df-8b6c-a3968e444a79,slew.lol,available,1.8,40.98,high,low,4,namecheap,,,25/08/2026 00:42
+a411f260-4fca-4fb7-a68c-1f42568cbde4,selfesteem.lol,available,1.99,32.49,high,low,11,namesilo,,,30/09/2026 06:09
 707cc506-2a2d-4c66-a055-663b237f4336,jayne.lol,available,1.99,32.49,medium,low,5,namesilo,,,29/09/2026 22:03
-2dbfcc22-5b49-42fa-8989-a70c13bf1172,glittery.lol,available,1.8,40.98,high,low,8,namecheap,,,
+2dbfcc22-5b49-42fa-8989-a70c13bf1172,glittery.lol,available,1.8,40.98,medium,low,8,namecheap,,,
 0989e642-abfa-43ab-a6d6-cccea600ccfd,cartridge.lol,available,1.54,26.26,medium,low,9,porkbun,,,29/09/2026 18:14
 d908851d-bc2f-4570-baf0-4b6117b1fed9,bespoke.lol,resell,,,high,low,7,"Sav.com, LLC - 40",17/02/2026 16:26,17/02/2027 23:59,26/09/2026 04:22
+2a5b93b5-1a68-4f74-b5b4-8fde2bcde6f5,commitments.lol,available,1.99,32.49,medium,low,11,namesilo,,,30/09/2026 07:30
 a65b2157-03b2-4b75-a08b-2a16cd0085f9,northwards.lol,available,1.8,40.98,medium,low,10,namecheap,,,03/09/2026 21:25
 2c81d4c8-b982-45ef-8716-ff559c6e2df3,reservedly.lol,available,1.8,40.98,medium,low,10,namecheap,,,15/09/2026 23:22
 c577131b-0eab-421f-844d-881550304011,overwhelmed.lol,available,1.99,,medium,low,11,name.com,,,
@@ -140,12 +149,12 @@ ddcd1f27-7ded-4dbd-af8a-29308fe41fad,cajole.lol,available,1.99,32.49,medium,low,
 2f86683a-7e14-4ee7-bde2-e68e745b93b1,tiled.lol,available,1.8,40.98,medium,low,5,namecheap,,,11/09/2026 15:55
 7c30eee4-7243-4523-8a13-32e0f6a5c855,inglorious.lol,available,1.8,40.98,medium,low,10,namecheap,,,21/08/2026 18:25
 e330e4fb-3f34-4872-93eb-c31717f8a13f,cautionary.lol,available,1.8,40.98,medium,low,10,namecheap,,,
-06368bd0-03db-4151-a48d-f0e69275ae7a,enumerate.lol,available,1.8,40.98,high,low,9,namecheap,,,03/09/2026 22:58
+06368bd0-03db-4151-a48d-f0e69275ae7a,enumerate.lol,available,1.8,40.98,medium,low,9,namecheap,,,03/09/2026 22:58
 ba9385cd-ce4f-48f6-b103-5d1c77786ab3,bevan.lol,available,1.99,32.49,medium,low,5,namesilo,,,29/09/2026 21:45
 ec266bd2-ddf0-46c1-a411-82d5f015ea9a,trigonal.lol,available,1.8,40.98,medium,low,8,namecheap,,,09/09/2026 16:45
 54072083-9e13-4a25-808c-ca813af4ea6f,sentiments.lol,available,1.99,32.49,medium,low,10,namesilo,,,17/09/2026 07:39
 6c686006-1e04-4427-8749-308197acb4e3,exigent.lol,available,1.8,40.98,medium,low,7,namecheap,,,13/08/2026 09:31
-c5fcc113-0e08-4dc7-bc4c-be8bdb21e189,squirting.lol,available,1.8,40.98,high,low,9,namecheap,,,22/08/2026 13:15
+c5fcc113-0e08-4dc7-bc4c-be8bdb21e189,squirting.lol,available,1.8,40.98,medium,low,9,namecheap,,,22/08/2026 13:15
 81a99769-8e12-498e-bda1-a487b3dae07c,poetically.lol,available,1.8,40.98,high,low,10,namecheap,,,15/09/2026 20:51
 67941b69-d46d-42a3-a8ec-38df75978cd0,clinically.lol,available,1.24,26.08,medium,low,10,spaceship,,,28/09/2026 13:58
 94312972-8687-4b77-8836-756666006277,piggish.lol,available,1.8,40.98,medium,low,7,namecheap,,,21/08/2026 10:18
@@ -155,28 +164,30 @@ aeb52d71-e4c1-402a-bfcf-a65720586b6c,phlegmatic.lol,available,1.8,40.98,high,low
 afb43d70-20f7-416e-8eb1-6b2d760cd84d,baudelaire.lol,available,1.99,32.49,high,low,10,namesilo,,,22/09/2026 16:35
 e8a5e4f8-3ccf-4b18-b28b-8c3f1d1d4f9c,mysore.lol,available,1.99,32.49,medium,low,6,namesilo,,,28/09/2026 19:36
 4f1a41fe-47cd-42ef-971e-1ab34ee6efd7,hinault.lol,available,1.99,32.49,medium,low,7,namesilo,,,23/09/2026 09:48
+d8f532ab-806b-4119-a583-6eceb01b3c52,fiddler.lol,available,1.24,26.08,high,low,7,spaceship,,,01/10/2026 02:09
 2425492c-8e7d-4971-8ace-11a3ce704ea7,specified.lol,available,1.8,40.98,high,medium,9,namecheap,,,10/09/2026 15:25
 34e9c4c5-ccd0-4c26-8320-d7253c9fe08e,inability.lol,available,1.99,32.49,medium,low,9,namesilo,,,29/09/2026 07:19
 2ebc8ad8-31ef-4a71-be14-cf8b3abcb5ea,intuitions.lol,available,1.8,40.98,medium,low,10,namecheap,,,20/09/2026 19:28
 14e993fa-d85b-4ff7-bd74-2572c2509024,luftwaffe.lol,available,1.99,32.49,medium,low,9,namesilo,,,28/09/2026 09:53
-7b534c21-97c2-4c5a-9780-681fa06a5f28,syllabic.lol,available,1.8,40.98,high,low,8,namecheap,,,11/09/2026 05:58
+7b534c21-97c2-4c5a-9780-681fa06a5f28,syllabic.lol,available,1.8,40.98,medium,low,8,namecheap,,,11/09/2026 05:58
 b0e32737-553e-4dc2-a3f9-6daffab00bb1,colorless.lol,available,1.8,40.98,medium,low,9,namecheap,,,12/08/2026 17:53
-02f6f91b-f6c6-4759-aa20-067bee64d0af,emory.lol,available,1.24,26.08,high,low,5,spaceship,,,29/09/2026 15:34
+02f6f91b-f6c6-4759-aa20-067bee64d0af,emory.lol,available,1.24,26.08,medium,low,5,spaceship,,,29/09/2026 15:34
 e5101709-82c1-4f95-bf96-25ddd17fff4c,entire.lol,available,1.8,40.98,high,low,6,namecheap,,,17/08/2026 09:57
 9b4c5248-3740-43d4-a262-99b96277a4e7,intercept.lol,available,1.99,32.49,high,low,9,namesilo,,,28/09/2026 06:03
 31227962-d19e-400e-a8b9-21c98d0e7a04,satyrical.lol,available,1.8,40.98,medium,low,9,namecheap,,,09/09/2026 21:57
 580cb8ff-5d5c-4ea6-aec1-1b369a1272e5,enceinte.lol,available,1.8,40.98,medium,low,8,namecheap,,,16/08/2026 22:09
 a189b332-978d-4f34-8f3c-81e263acea14,enters.lol,available,1.24,26.08,low,low,6,spaceship,,,28/09/2026 17:22
-b0f6777c-44cf-4222-b1fa-8e2ec960a04c,emotionally.lol,available,1.24,26.08,high,low,11,spaceship,,,27/09/2026 17:53
+b0f6777c-44cf-4222-b1fa-8e2ec960a04c,emotionally.lol,available,1.24,26.08,medium,low,11,spaceship,,,27/09/2026 17:53
 233dd4bf-15f1-4bc5-8c04-4c7667e074c0,subnormal.lol,available,1.8,40.98,medium,low,9,namecheap,,,11/09/2026 00:28
+6f4642b1-8f25-49d1-a584-4852ffa2e9d5,validity.lol,available,1.99,32.49,high,low,8,namesilo,,,30/09/2026 17:33
 292d072f-f61e-4707-a979-2ec64387a9e5,transform.lol,premium,845,845,high,low,9,namecheap,,,28/09/2026 20:53
 5a7559b3-9d3c-4b49-9e3c-5f201b2ca0d2,airspeed.lol,available,1.99,32.49,high,low,8,namesilo,,,17/09/2026 23:22
 c7b06c15-63ef-4b29-90cf-bd04d7ade223,disclose.lol,available,1.99,32.49,high,low,8,namesilo,,,29/09/2026 20:42
-fc8ef1fd-b6bb-47f9-bb45-f903eb886bc1,graft.lol,available,1.8,40.98,high,low,5,namecheap,,,24/09/2026 10:15
+fc8ef1fd-b6bb-47f9-bb45-f903eb886bc1,graft.lol,available,1.8,40.98,medium,low,5,namecheap,,,24/09/2026 10:15
 da506ec5-64c9-4660-81a4-c21f9c735a99,anodal.lol,available,1.8,40.98,medium,low,6,namecheap,,,
 8e6719be-a672-4b3f-bfa9-7219d4bd57fe,chelonian.lol,available,1.8,40.98,low,low,9,namecheap,,,12/08/2026 04:08
 3933a28f-b095-49e2-9102-12a1f53aebf1,aguacate.lol,available,1.8,40.98,medium,low,8,namecheap,,,07/08/2026 23:46
-09482ad4-ed62-4c1b-94b7-164cc6755631,postpartum.lol,available,1.8,40.98,high,low,10,namecheap,,,09/09/2026 00:37
+09482ad4-ed62-4c1b-94b7-164cc6755631,postpartum.lol,available,1.8,40.98,medium,low,10,namecheap,,,09/09/2026 00:37
 4263c915-f2de-49fa-a429-1a8485ce7145,dickerson.lol,available,1.8,40.98,medium,low,9,namecheap,,,29/09/2026 09:51
 9f6f76a5-33a5-4ccb-887e-b58d418a57c7,favours.lol,available,1.99,32.49,medium,low,7,namesilo,,,17/09/2026 23:24
 b5ed7362-35f9-4a60-bca5-68b756cec33d,herakles.lol,available,1.8,40.98,high,low,8,namecheap,,,18/09/2026 04:05
@@ -190,6 +201,7 @@ d64efa4c-e2e1-454c-9e1a-062d904c1d04,hypotonic.lol,available,1.8,40.98,medium,lo
 5cb1fd6f-3fcb-41e5-881b-eaa3842d7c31,lucullan.lol,available,1.8,40.98,medium,low,8,namecheap,,,24/08/2026 11:00
 83c11ea1-6122-4ae7-9432-7412587fdd7d,tref.lol,available,1.8,40.98,medium,low,4,namecheap,,,03/09/2026 19:37
 3c52a269-ab61-4f32-8b58-3da1045db9c5,athenaeum.lol,available,1.99,32.49,high,low,9,namesilo,,,20/09/2026 20:40
+17157a88-017e-42bf-8540-79117803711a,sayyid.lol,available,1.99,32.49,medium,low,6,namesilo,,,30/09/2026 11:49
 4fc1d6dd-2c6f-4401-9582-fbfbbe7d474b,handless.lol,available,1.8,40.98,medium,low,8,namecheap,,,11/08/2026 10:12
 44a94dff-9728-47b4-afce-02de788ac1e9,adz.lol,available,1.8,40.98,medium,low,3,namecheap,,,17/09/2026 12:01
 3cbf88ac-db40-4c01-a2ca-6ea6cd87ea2b,anosmia.lol,available,1.8,40.98,medium,low,7,namecheap,,,19/09/2026 11:51
@@ -201,7 +213,7 @@ f47df4bf-c653-40b1-a10a-15440848586c,bedside.lol,available,1.8,40.98,high,low,7,
 241496b8-4fae-4e65-8cf3-519dfe737508,sleek.lol,resell,,,high,low,5,Dynadot Inc,13/07/2026 02:18,13/07/2027 23:59,26/09/2026 09:04
 fbd79f4a-3ff3-4ec6-bbd2-b130db39ead4,unfilmed.lol,available,1.8,40.98,medium,low,8,namecheap,,,12/09/2026 10:14
 6c79917a-5e2f-4ace-a773-eda0d828b07d,lacerate.lol,available,1.8,40.98,medium,low,8,namecheap,,,22/08/2026 17:51
-8a20d230-1009-4650-bf0b-64635ed06eae,pallas.lol,available,1.8,40.98,high,low,6,namecheap,,,20/09/2026 20:39
+8a20d230-1009-4650-bf0b-64635ed06eae,pallas.lol,available,1.8,40.98,medium,low,6,namecheap,,,20/09/2026 20:39
 6895d92c-fcbb-4dfe-9359-cbf1f82e56ac,undeterred.lol,available,1.8,40.98,medium,low,10,namecheap,,,12/09/2026 07:59
 dcd1ad9f-3540-4a34-8a67-7a0c8421cf7f,homewards.lol,available,1.8,40.98,medium,low,9,namecheap,,,21/08/2026 11:24
 5c5f9c9c-53b6-4045-9ac8-2d6b697a272b,attalea.lol,available,1.99,32.49,medium,low,7,namesilo,,,21/09/2026 01:14
@@ -210,6 +222,7 @@ dcd1ad9f-3540-4a34-8a67-7a0c8421cf7f,homewards.lol,available,1.8,40.98,medium,lo
 7f5d1fe8-33de-4371-acba-5561b3a88cb9,subfusc.lol,available,1.8,40.98,medium,low,7,namecheap,,,10/09/2026 23:47
 9cb4fb37-0f87-45d9-b6fc-dbed0005ff78,biochemist.lol,available,1.99,32.49,high,low,10,namesilo,,,23/09/2026 17:44
 8eba9a05-a2a1-41a0-823a-2df25fc87479,agnate.lol,available,1.8,40.98,medium,low,6,namecheap,,,
+73c7e729-977c-4190-a872-3b235fde0f96,barak.lol,available,1.24,26.08,medium,low,5,spaceship,,,30/09/2026 20:54
 73544ab6-e7b8-41c3-bc2e-e97c0a88d345,mrs.lol,premium,832,832,high,low,3,namesilo,,,25/09/2026 09:30
 11ba4814-2416-4166-b2ea-7be351ef461e,ruhr.lol,available,1.24,26.08,medium,low,4,spaceship,,,29/09/2026 02:04
 932571dc-80bf-468b-bee1-990212649bca,undertake.lol,available,1.99,32.49,high,low,9,namesilo,,,24/09/2026 17:44
@@ -220,17 +233,18 @@ ad9c8179-5d3e-4eef-b49a-5c9c1cccb764,sapid.lol,available,1.8,40.98,medium,low,5,
 994b6e28-6557-4c3c-8a31-14f72e3ea7dd,impossibly.lol,available,1.8,40.98,medium,low,10,namecheap,,,15/09/2026 04:27
 1054f481-809f-4156-bc80-28f433eb7c57,alienating.lol,available,1.8,40.98,medium,low,10,namecheap,,,
 e11d7029-f65d-46bc-9789-ae540e43b60e,squeezable.lol,available,1.8,40.98,medium,low,10,namecheap,,,10/09/2026 17:41
-838e01cb-6211-46af-98d4-23348ced21ec,basilica.lol,available,1.99,32.49,high,low,8,namesilo,,,22/09/2026 10:49
+838e01cb-6211-46af-98d4-23348ced21ec,basilica.lol,available,1.99,32.49,medium,low,8,namesilo,,,22/09/2026 10:49
 3008b9a3-7c7b-4776-9945-519f3626cb93,bowfin.lol,available,1.8,40.98,medium,low,6,namecheap,,,18/09/2026 21:19
 4c339970-6ca2-4e8e-9030-7d08d698c50d,reportedly.lol,available,1.8,40.98,medium,low,10,namecheap,,,15/09/2026 23:15
 7dcc27ef-8c58-42f3-845b-23687459fcbd,debased.lol,available,1.8,40.98,medium,low,7,namecheap,,,
 a4f1b0a6-e3fc-42d8-9239-f5df3385d5a2,campy.lol,available,1.8,40.98,medium,low,5,namecheap,,,11/08/2026 15:48
-ea68fa5c-9d2f-4322-92b6-2596acb1ac4d,condemn.lol,available,1.99,32.49,medium,low,7,namesilo,,,
-b6bb59a7-7a2b-454d-94a0-37b1b29f5075,audibility.lol,available,1.99,32.49,high,low,10,namesilo,,,21/09/2026 02:52
+ea68fa5c-9d2f-4322-92b6-2596acb1ac4d,condemn.lol,available,1.99,32.49,medium,low,7,namesilo,,,30/09/2026 10:53
+b6bb59a7-7a2b-454d-94a0-37b1b29f5075,audibility.lol,available,1.99,32.49,medium,low,10,namesilo,,,21/09/2026 02:52
 5fc427e6-97f5-47c4-9af7-f773d0e29cb5,rowing.lol,available,1.5,26.97,high,low,6,dynadot,,,29/09/2026 20:14
 c05b2fc9-490d-41a1-94ca-68b3cc55b60e,courtenay.lol,available,1.99,32.49,medium,low,9,namesilo,,,29/09/2026 22:46
-549d9ecd-7c17-45fc-b3f7-ed561a7f9396,mosque.lol,available,1.99,,high,low,6,name.com,,,
+549d9ecd-7c17-45fc-b3f7-ed561a7f9396,mosque.lol,available,1.24,26.08,high,low,6,spaceship,,,30/09/2026 05:18
 a0a11f79-4915-4a18-90bc-ace028603829,remainder.lol,available,1.8,40.98,high,low,9,namecheap,,,09/09/2026 15:03
+de367604-29bf-4b4e-9cff-d1b73ad9b5ab,civilisation.lol,available,1.99,32.49,high,low,12,namesilo,,,30/09/2026 14:23
 bc5b978a-ec99-40dc-adcf-fc6c1dbd557c,oshkosh.lol,premium,2070.2,2070.2,high,low,7,spaceship,,,29/09/2026 15:52
 65f89c77-9373-4cbd-b297-94a3bf481897,scripps.lol,premium,2660,2660,high,low,7,namesilo,,,28/09/2026 05:34
 f7f3324d-7bca-4dad-ad7c-f200f483d099,contributions.lol,available,1.99,32.49,low,low,13,namesilo,,,29/09/2026 10:13
@@ -240,19 +254,21 @@ f7f3324d-7bca-4dad-ad7c-f200f483d099,contributions.lol,available,1.99,32.49,low,
 d31024a2-e0b1-471f-84da-0d42f533d03d,permanent.lol,available,1.8,40.98,high,low,9,namecheap,,,22/08/2026 20:24
 be4db72c-0611-431d-9841-11b2bcb44c78,clothe.lol,available,1.8,40.98,high,low,6,namecheap,,,19/09/2026 19:51
 c5cc40af-5225-46db-913a-54c162aa1056,danseuse.lol,available,1.8,40.98,medium,low,8,namecheap,,,21/09/2026 22:50
-8a839cfc-595a-48d1-acff-4d17dc8f2537,delicately.lol,available,1.8,40.98,high,low,10,namecheap,,,14/09/2026 11:25
+8a839cfc-595a-48d1-acff-4d17dc8f2537,delicately.lol,available,1.8,40.98,medium,low,10,namecheap,,,14/09/2026 11:25
 bdf67124-20d1-4207-9ac4-a91b5c211227,arizonian.lol,available,1.99,32.49,medium,low,9,namesilo,,,20/09/2026 06:06
 7922130d-814c-4562-91fd-06941edb60af,aeon.lol,premium,2660,2660,high,high,4,namesilo,,,17/09/2026 12:39
 8b4e11a6-207b-473a-ac5e-92a9fbc3ee73,chalybeate.lol,available,1.8,40.98,medium,low,10,namecheap,,,12/08/2026 01:32
-6b8a0954-2060-452f-881c-fdeb502f3188,thee.lol,available,1.99,,high,low,4,name.com,,,
+6b8a0954-2060-452f-881c-fdeb502f3188,thee.lol,available,1.99,32.49,medium,low,4,namesilo,,,30/09/2026 21:59
 15385f9d-44af-4cc7-9e83-90af249fec0b,carrying.lol,available,1.99,32.49,high,low,8,namesilo,,,
-13cb9075-369b-4aa4-93c4-ab8cbaa717bb,nationally.lol,available,1.8,40.98,high,low,10,namecheap,,,03/09/2026 13:44
+13cb9075-369b-4aa4-93c4-ab8cbaa717bb,nationally.lol,available,1.8,40.98,medium,low,10,namecheap,,,03/09/2026 13:44
 029ddb78-7bae-48a4-a0a1-fbb8fbd13015,answering.lol,available,1.99,32.49,high,low,9,namesilo,,,22/09/2026 05:38
 c99027bf-2502-4dca-a7e3-b20d332bf75c,erogenous.lol,available,1.8,40.98,medium,low,9,namecheap,,,17/08/2026 12:28
 f0c72e2f-9e30-4f37-bb3b-e04c88f23237,governable.lol,available,1.8,40.98,medium,low,10,namecheap,,,12/08/2026 23:44
 8ea21a16-daac-42b2-9159-913d9a0b83f7,leafless.lol,available,1.8,40.98,medium,low,8,namecheap,,,22/08/2026 21:56
 b0d41458-a084-4ca6-b808-047f9bf015e7,bardolatry.lol,available,1.99,32.49,medium,low,10,namesilo,,,22/09/2026 05:17
 a96cdc09-a9db-4026-b413-6f7114b0de21,beanbag.lol,available,1.8,40.98,high,low,7,namecheap,,,22/09/2026 20:20
+ba5bd372-1688-4153-8820-2411b0fc501b,streamlined.lol,available,1.24,26.08,high,low,11,spaceship,,,01/10/2026 06:16
+6e49fe93-6516-4656-ab7b-d2f42e79269d,rue.lol,premium,672.95,672.95,high,low,3,spaceship,,,30/09/2026 17:34
 7c640eac-bfbe-441a-987b-9e44dbc7ea1f,illusory.lol,available,1.8,40.98,medium,low,8,namecheap,,,21/08/2026 20:15
 dd37c9e1-22bc-4c59-a527-5c6ad39a60bd,meridional.lol,available,1.8,40.98,medium,low,10,namecheap,,,24/08/2026 20:52
 ca2565a0-9927-497e-b850-0b207fe50f09,cased.lol,available,1.8,40.98,medium,low,5,namecheap,,,11/08/2026 20:04
@@ -267,12 +283,15 @@ e115571f-2fdb-43e5-8005-d99127124a04,airfield.lol,available,1.99,32.49,high,low,
 9243df4d-cd61-415b-9424-d378b43b4e10,unwieldy.lol,available,1.8,40.98,medium,low,8,namecheap,,,12/08/2026 13:10
 083db639-2d58-4f81-b638-ad4fb8aa5e3f,floodwaters.lol,available,1.99,32.49,medium,low,11,namesilo,,,21/09/2026 03:37
 14424852-c57c-4066-9c9b-18deaad1bc88,crossed.lol,available,1.8,40.98,high,low,7,namecheap,,,13/08/2026 08:18
+c859b747-af60-4fbb-ad0a-b75ea106b9c1,georgians.lol,available,1.99,32.49,medium,low,9,namesilo,,,01/10/2026 01:07
 7082e498-ba78-45cf-91a9-564d352bc7ef,harmonious.lol,available,1.8,40.98,high,low,10,namecheap,,,21/08/2026 01:03
 35227947-791b-4e88-a4e4-7966277effda,deposition.lol,available,1.99,32.49,medium,low,10,namesilo,,,24/09/2026 22:00
 213c09b1-ac24-45d2-907e-b7445583f8ce,poisonous.lol,available,1.8,40.98,medium,low,9,namecheap,,,08/09/2026 22:40
+d690d7cd-8f12-4d8d-9bb5-c33652a40c62,pitches.lol,available,1.99,32.49,medium,low,7,namesilo,,,30/09/2026 14:41
 8162c582-0c8e-4847-b41f-8e38d215b298,bethune.lol,available,1.99,32.49,medium,low,7,namesilo,,,23/09/2026 11:17
 1cb514a3-435a-4ff8-978d-cfcc8ee59650,trusts.lol,available,1.24,26.08,medium,low,6,spaceship,,,28/09/2026 18:18
 77275b77-c8c9-42a7-8ffc-a68b21a268c9,upmost.lol,available,1.8,40.98,medium,low,6,namecheap,,,11/09/2026 17:50
+c7d13dad-43cc-4866-9aa0-de4d2ce2af86,nominees.lol,available,1.5,26.97,medium,low,8,dynadot,,,30/09/2026 16:22
 b447580f-aa61-4cc9-86ff-2f48e2e24263,collingwood.lol,available,1.8,40.98,medium,low,11,namecheap,,,28/09/2026 12:17
 cf99346d-7b00-45b5-beba-f30cde3b30a6,causal.lol,available,1.8,40.98,high,low,6,namecheap,,,11/08/2026 22:37
 3716627e-cdfc-4b95-84f0-6b50f6f99b32,passages.lol,available,1.24,26.08,medium,low,8,spaceship,,,29/09/2026 16:50
@@ -290,14 +309,14 @@ a61d5960-4769-4f98-9705-8024a9109d5d,stadia.lol,premium,2396,2396,high,low,6,nam
 c1f07e6a-dc89-4df5-9197-aa32981f9ea8,bertolucci.lol,available,1.99,32.49,high,low,10,namesilo,,,23/09/2026 09:50
 604f9cb7-8ec7-429d-81f9-feabf21888a2,dermal.lol,available,1.99,45.99,high,low,6,name.com,,,13/08/2026 13:00
 b22246ce-c876-4412-90a6-ad1a18e720db,institutions.lol,available,1.24,26.08,medium,low,12,spaceship,,,29/09/2026 16:24
-babd9aa3-ce82-4242-826b-a10568dd4680,supervise.lol,available,1.99,,high,low,9,name.com,,,
+babd9aa3-ce82-4242-826b-a10568dd4680,supervise.lol,available,1.8,40.98,high,low,9,namecheap,,,30/09/2026 05:05
 b78f48c7-141c-4432-91a6-dfb5d8187b10,trimly.lol,available,1.99,32.49,medium,low,6,namesilo,,,16/09/2026 09:29
-a869d561-1686-4e6e-aec8-28781ad0e3ca,teammate.lol,available,1.99,,high,low,8,name.com,,,
+a869d561-1686-4e6e-aec8-28781ad0e3ca,teammate.lol,available,1.24,26.08,high,low,8,spaceship,,,30/09/2026 12:51
 7cbd59e5-8f4a-4307-b78a-c76d3c349c74,necessities.lol,available,1.99,,medium,low,11,name.com,,,
 621e6e2a-c94e-4302-8fd8-c927b6ab66fd,restrain.lol,available,1.99,32.49,medium,low,8,namesilo,,,30/09/2026 03:00
-1c122751-706e-49dc-b054-373408152dff,inrush.lol,available,1.8,40.98,high,low,6,namecheap,,,22/08/2026 06:17
+1c122751-706e-49dc-b054-373408152dff,inrush.lol,available,1.8,40.98,medium,low,6,namecheap,,,22/08/2026 06:17
 696ae349-0478-4fdf-b394-681f879b087e,sidewise.lol,available,1.8,40.98,high,medium,8,namecheap,,,10/09/2026 07:48
-c3cf6e1f-1718-4511-80ec-4b0649decb2c,donegal.lol,available,1.8,40.98,high,low,7,namecheap,,,28/09/2026 21:57
+c3cf6e1f-1718-4511-80ec-4b0649decb2c,donegal.lol,available,1.8,40.98,medium,low,7,namecheap,,,28/09/2026 21:57
 cece2d57-e278-4cdb-a7c4-71a06187f18f,anglia.lol,available,1.99,32.49,medium,low,6,namesilo,,,19/09/2026 06:45
 1335a395-9b77-467a-b3d2-d7263cef4abf,repugnant.lol,available,1.8,40.98,medium,low,9,namecheap,,,
 c51f5b52-2ecc-42eb-9d85-0f9403c4c007,berkshires.lol,available,1.99,32.49,medium,low,10,namesilo,,,23/09/2026 09:35
@@ -305,8 +324,10 @@ c51f5b52-2ecc-42eb-9d85-0f9403c4c007,berkshires.lol,available,1.99,32.49,medium,
 4d5f20e9-722e-42ba-82e6-8d581dc51d44,elongated.lol,available,1.8,40.98,medium,low,9,namecheap,,,16/08/2026 05:26
 aa902e99-28f7-49e1-89e3-b96517dc87bf,munson.lol,available,1.24,26.08,medium,low,6,spaceship,,,29/09/2026 15:48
 d3728dbb-d7ab-4d3a-8039-309e55d1791b,atole.lol,available,1.99,32.49,medium,low,5,namesilo,,,20/09/2026 21:52
+1fbf5597-e4b7-4fe6-a1ca-a45335420f84,moab.lol,available,1.24,26.08,medium,low,4,spaceship,,,01/10/2026 05:14
 8d1ec269-4d9a-4eb2-ac33-761f551d5a9b,asphyxia.lol,available,1.8,40.98,medium,low,8,namecheap,,,20/09/2026 15:10
 ba87aa12-d252-42b2-8695-ca84920bfa4f,affine.lol,available,1.8,40.98,high,low,6,namecheap,,,
+b236a927-14d9-49d3-b618-298a280f2aa8,katanga.lol,available,1.24,26.08,medium,low,7,spaceship,,,30/09/2026 21:27
 562d6071-163d-452b-8b0c-4837733be1d5,arctiid.lol,available,1.99,32.49,medium,low,7,namesilo,,,20/09/2026 02:47
 3bdd252a-7637-4410-bb1f-c5df4d6e6bc0,uphill.lol,available,1.8,40.98,medium,low,6,namecheap,,,
 e3c94222-ad47-48a3-a83c-dbb15d1f723e,beldam.lol,available,1.99,32.49,medium,low,6,namesilo,,,23/09/2026 04:45
@@ -316,6 +337,7 @@ abfe1bf8-2a8a-4c19-a033-9e97a8288de4,accoutered.lol,available,1.8,40.98,medium,l
 50d455f4-1fe1-4777-9c36-dd01953944b4,thereby.lol,available,1.8,40.98,medium,low,7,namecheap,,,16/09/2026 08:39
 40769023-0202-4f82-9f27-e5d788e0da1d,abstruse.lol,available,1.8,40.98,medium,low,8,namecheap,,,
 0d0cef6d-c7fd-4c9c-8d49-9a767b8fac6e,stanley.lol,premium,2660,2660,high,low,7,namesilo,,,25/09/2026 06:08
+92f61db8-dc96-42c7-bf1f-6f1275b2830d,rink.lol,available,1.99,32.49,high,low,4,namesilo,,,01/10/2026 03:34
 3b93dd8f-742b-4715-818b-9eabed4d9093,aguish.lol,available,1.8,40.98,medium,low,6,namecheap,,,
 50bb81a2-b18e-486d-bbd7-5af919374c13,olin.lol,premium,2070.2,2070.2,medium,low,4,spaceship,,,29/09/2026 04:10
 0fb5b475-d9dd-4a36-bdab-c4846bb6476e,defile.lol,available,1.8,40.98,medium,low,6,namecheap,,,24/08/2026 12:53
@@ -323,13 +345,16 @@ abfe1bf8-2a8a-4c19-a033-9e97a8288de4,accoutered.lol,available,1.8,40.98,medium,l
 5c9083ab-88e0-4209-b1ea-bd90e31d1b00,lublin.lol,available,1.99,32.49,medium,low,6,namesilo,,,28/09/2026 19:44
 78a57d0b-b9a2-41c6-97c0-5c7695182d68,bobcat.lol,premium,2660,2660,high,medium,6,namesilo,,,22/09/2026 17:27
 47e0cf9f-3423-4c7c-a5e7-b46adf044787,atavism.lol,available,1.99,45.99,medium,low,7,name.com,,,20/09/2026 19:45
+39e05b6b-3f39-4d5e-94ca-277cc04d967b,fished.lol,available,1.24,26.08,medium,low,6,spaceship,,,01/10/2026 00:50
 66e38575-61f4-4557-87f8-c91111446b37,grueling.lol,available,1.8,40.98,medium,low,8,namecheap,,,06/08/2026 16:45
 83a50361-84c1-4e4b-9a9f-94f8489ac10a,dishonesty.lol,available,1.99,32.49,medium,low,10,namesilo,,,29/09/2026 15:54
-8f8678b0-0262-4d7b-bf01-74c9e04e9108,perugia.lol,available,1.99,32.49,high,low,7,namesilo,,,29/09/2026 21:46
+8f8678b0-0262-4d7b-bf01-74c9e04e9108,perugia.lol,available,1.99,32.49,medium,low,7,namesilo,,,29/09/2026 21:46
 2a31e883-1896-494c-aa63-e319eb6a0efc,operationally.lol,available,1.24,26.08,low,low,13,spaceship,,,29/09/2026 17:55
 e1a4e17a-d2de-4afe-8895-0f7fc125003c,grandchild.lol,available,1.24,26.08,high,low,10,spaceship,,,29/09/2026 21:23
+8a2109f3-73ec-4c92-b469-cc6a6f4102f8,harkness.lol,available,1.99,32.49,medium,low,8,namesilo,,,30/09/2026 05:36
 8a56c0aa-235a-41c6-b82c-239943ce1515,untrue.lol,available,1.99,32.49,medium,low,6,namesilo,,,26/09/2026 03:18
 ef383ddb-4320-47e9-8624-4aa045c5742a,appears.lol,available,1.8,40.98,medium,low,7,namecheap,,,25/09/2026 20:18
+3325f3f3-b5a1-4c5b-a338-e01f6a479d46,sikorsky.lol,premium,2070.2,2070.2,high,low,8,spaceship,,,30/09/2026 17:41
 3878ba38-633d-4038-8435-34b4258d3b16,candour.lol,available,1.99,32.49,high,low,7,namesilo,,,24/09/2026 12:03
 d8e53c59-acd5-474d-8074-a77ac2963646,chasing.lol,available,1.99,32.49,high,low,7,namesilo,,,27/09/2026 06:54
 582eb3b8-60a1-4853-ab41-18cecbfbd84c,cogent.lol,premium,2396,2396,medium,low,6,name.com,,,12/08/2026 15:33
@@ -351,13 +376,14 @@ c71e7fed-7412-47a0-9e43-81abe8d3d5e1,antbird.lol,available,1.99,32.49,medium,low
 1539d6d0-6363-4378-95d6-bd7502b82d92,alar.lol,available,1.8,40.98,medium,low,4,namecheap,,,
 69b6f46f-a0a9-4e27-98a7-2d0c32e1bc88,starlit.lol,available,1.8,40.98,medium,low,7,namecheap,,,10/09/2026 18:56
 11b0350a-ee79-48d0-b338-10441285cd4c,dissolve.lol,available,1.99,32.49,high,low,8,namesilo,,,29/09/2026 16:16
+d2c86331-8b51-48e8-a7b7-56f790bb943b,manipulating.lol,available,1.24,26.08,medium,low,12,spaceship,,,30/09/2026 14:55
 0bf94552-56d2-46b2-ad87-983947597305,goodly.lol,available,1.8,40.98,high,low,6,namecheap,,,20/08/2026 16:36
 2214ac35-40eb-4207-b36e-d92d224fa705,murillo.lol,available,1.99,32.49,high,low,7,namesilo,,,22/09/2026 09:24
 37dc833c-fb01-479e-825c-508b4a92b2d7,chinquapin.lol,available,1.99,32.49,medium,low,10,namesilo,,,18/09/2026 10:57
 6758486b-b46c-4c12-abad-f84a29696fde,paraffin.lol,available,1.8,40.98,high,low,8,namecheap,,,18/09/2026 08:24
 37bef970-ccde-4945-907e-1287427ba54e,practitioners.lol,available,1.99,32.49,medium,low,13,namesilo,,,20/09/2026 23:01
-703a4b9d-8376-4377-bff9-a0b858cba3e7,demography.lol,available,1.5,26.97,high,low,10,dynadot,,,28/09/2026 18:56
-6e0483ca-cbef-4279-8b5a-fd6ed2ac38c4,kirkwood.lol,available,1.99,32.49,high,low,8,namesilo,,,29/09/2026 10:55
+703a4b9d-8376-4377-bff9-a0b858cba3e7,demography.lol,available,1.5,26.97,medium,low,10,dynadot,,,28/09/2026 18:56
+6e0483ca-cbef-4279-8b5a-fd6ed2ac38c4,kirkwood.lol,available,1.99,32.49,medium,low,8,namesilo,,,29/09/2026 10:55
 2b850e53-fcb3-431e-91cf-2e6c5f3e555b,advancing.lol,available,1.8,40.98,high,low,9,namecheap,,,21/09/2026 20:51
 67b0df78-7676-4e0c-b93d-3a29687d11a4,allomorph.lol,available,1.99,32.49,medium,low,9,namesilo,,,18/09/2026 11:59
 221153e3-d676-4247-8245-390dd6b5ce52,fusty.lol,available,1.8,40.98,low,low,5,namecheap,,,18/08/2026 16:42
@@ -387,9 +413,10 @@ c7b0334b-f053-46c0-bf47-5aadccf11551,bruising.lol,available,1.8,40.98,medium,low
 7dd9ea15-d0da-4685-9ae1-c2bc42e73dcf,realization.lol,available,1.99,32.49,high,low,11,namesilo,,,29/09/2026 22:49
 7517a099-fa78-464b-93a5-64bd9a4249c7,geodetic.lol,available,1.8,40.98,medium,low,8,namecheap,,,18/08/2026 22:21
 b02d7ab0-203f-48aa-bb58-e5f32eecb5e5,undated.lol,available,1.8,40.98,medium,low,7,namecheap,,,12/09/2026 06:58
-a38e3371-0c2c-48d1-809e-c8ffa295d59c,retirement.lol,premium,778.7,,high,low,10,name.com,,,
+a38e3371-0c2c-48d1-809e-c8ffa295d59c,retirement.lol,premium,832,832,high,low,10,namesilo,,,30/09/2026 10:06
 5201d97a-e78e-4c98-8cc2-e9d5503e6b8b,clocks.lol,available,1.99,32.49,high,low,6,namesilo,,,18/09/2026 06:14
 6524c955-6161-49e6-aa39-091633f83368,sufferer.lol,available,1.99,32.49,medium,low,8,namesilo,,,24/09/2026 22:36
+14b3d727-bcfb-46e7-bef4-c3f5128970ba,seizing.lol,available,1.24,26.08,medium,low,7,spaceship,,,30/09/2026 18:24
 8a43c0e5-d525-406e-aaae-33119651606b,nourished.lol,available,1.8,40.98,high,low,9,namecheap,,,03/09/2026 22:12
 d9d8fb3f-3832-4bf9-90c9-55102aac90f5,bagger.lol,available,1.8,40.98,medium,low,6,namecheap,,,21/09/2026 18:02
 0c368d3e-eab8-4035-ac07-30185888e2ba,assessor.lol,available,1.99,32.49,high,low,8,namesilo,,,20/09/2026 16:19
@@ -399,14 +426,15 @@ ac4b9e52-b4f1-4e63-9adc-93cb58fdf5fb,horseback.lol,available,1.99,32.49,high,low
 a7a9763c-3ad3-43c4-b06e-63c150d4c024,endowed.lol,available,1.8,40.98,high,low,7,namecheap,,,17/08/2026 01:23
 7f15fbdc-5fb5-47e3-a640-2b671c429403,numinous.lol,available,1.8,40.98,medium,low,8,namecheap,,,03/09/2026 23:01
 43ccd89d-1141-4b20-87a5-baedef48fced,disassemble.lol,available,1.99,32.49,medium,low,11,namesilo,,,
-c91a8ea9-75e7-4cef-a373-7f503480eebd,humbled.lol,available,1.8,40.98,high,low,7,namecheap,,,21/08/2026 15:00
+c91a8ea9-75e7-4cef-a373-7f503480eebd,humbled.lol,available,1.8,40.98,medium,low,7,namecheap,,,21/08/2026 15:00
 3d397945-97fd-44f5-8289-edb49955aadc,moonstruck.lol,available,1.8,40.98,high,low,10,namecheap,,,24/08/2026 11:18
-71b91eb9-84fc-499e-b70a-b6d64a23d206,harding.lol,available,1.8,40.98,high,low,7,namecheap,,,28/09/2026 19:24
+71b91eb9-84fc-499e-b70a-b6d64a23d206,harding.lol,available,1.8,40.98,medium,low,7,namecheap,,,28/09/2026 19:24
 31b37cf4-2097-4159-bbe1-0bfad78dfc0e,empathetic.lol,available,1.8,40.98,high,low,10,namecheap,,,16/08/2026 16:43
 f4daea31-326a-44d7-909a-1bbbf751d24d,laurie.lol,available,1.99,32.49,high,low,6,namesilo,,,25/09/2026 17:15
 65ec98fd-bfd3-4d56-8c12-9ad4c899fa46,berm.lol,available,1.99,32.49,medium,low,4,namesilo,,,23/09/2026 09:41
 fe28af48-eb8a-445c-83e5-c2770d4a6be8,wilful.lol,available,1.8,40.98,medium,low,6,namecheap,,,18/08/2026 16:39
-b0cea8f7-6549-461b-819f-b728cc014db5,microscopic.lol,available,1.24,26.08,high,low,11,spaceship,,,29/09/2026 08:46
+253b074a-fecb-4baf-90e7-eddd82c6aff8,sandford.lol,available,1.54,26.26,medium,low,8,porkbun,,,30/09/2026 13:50
+b0cea8f7-6549-461b-819f-b728cc014db5,microscopic.lol,available,1.24,26.08,medium,low,11,spaceship,,,29/09/2026 08:46
 3203cb2d-cb1f-4fb5-a816-5ba1db6a282f,annexa.lol,available,1.99,32.49,medium,low,6,namesilo,,,17/09/2026 09:06
 9d4871e0-d88a-4be6-92d9-6a8fbfa8d39f,mousy.lol,available,1.8,40.98,medium,low,5,namecheap,,,25/08/2026 08:42
 19001692-1637-4990-b3b5-fe6e4fffb845,bombed.lol,available,1.99,32.49,medium,low,6,namesilo,,,28/09/2026 16:00
@@ -414,8 +442,9 @@ e476a78a-1154-4f00-8563-544cc60e54eb,apostasy.lol,available,1.8,40.98,medium,low
 2505e1d1-6e89-45b2-a643-79296411b402,barbed.lol,available,1.8,40.98,medium,low,6,namecheap,,,08/08/2026 16:36
 4b95a35a-a867-43e6-b61e-e321be00cf0a,anlage.lol,available,1.99,45.99,medium,low,6,name.com,,,19/09/2026 09:53
 83e04ba2-f334-43c2-8909-8b992a3c1587,advocacy.lol,available,1.99,32.49,high,low,8,namesilo,,,17/09/2026 11:40
+187e78c1-975c-4e61-88ab-4f2b79c40fc2,tajik.lol,available,1.24,26.08,high,low,5,spaceship,,,01/10/2026 03:29
 bf46a9ac-f2ea-48ab-a4fb-b36fcb33c320,mexican.lol,available,1.99,45.99,high,low,7,name.com,,,25/09/2026 20:01
-20895df0-db7e-4739-9bf6-540759d72f34,plentitude.lol,available,1.8,40.98,high,low,10,namecheap,,,15/09/2026 20:35
+20895df0-db7e-4739-9bf6-540759d72f34,plentitude.lol,available,1.8,40.98,medium,low,10,namecheap,,,15/09/2026 20:35
 c4475859-412d-41c3-9cb2-88efcdcee68d,resole.lol,available,1.8,40.98,medium,low,6,namecheap,,,10/09/2026 13:33
 e19d94f4-ed3f-4e0c-b678-f521b9954b8e,fazed.lol,available,1.8,40.98,medium,low,5,namecheap,,,10/08/2026 21:00
 a13402e5-d8be-4fc5-b391-f168caa71c43,barograph.lol,available,1.99,32.49,medium,low,9,namesilo,,,22/09/2026 06:59
@@ -426,17 +455,20 @@ a13402e5-d8be-4fc5-b391-f168caa71c43,barograph.lol,available,1.99,32.49,medium,l
 ad32bef0-093f-4ce2-808a-7f00cf8538e5,subarctic.lol,available,1.8,40.98,medium,low,9,namecheap,,,10/09/2026 23:36
 af1e4008-1610-4d43-a7c0-d6fd7c306353,outfitted.lol,available,1.8,40.98,high,low,9,namecheap,,,04/09/2026 19:24
 96e535d0-3311-49fc-b832-7328c61af06b,ascesis.lol,available,1.99,32.49,medium,low,7,namesilo,,,20/09/2026 13:10
+83a1bd82-e8a5-4c78-a190-f6b7bb1d28cf,forsythe.lol,available,1.99,32.49,medium,low,8,namesilo,,,30/09/2026 16:08
 84739998-e602-481e-84b0-292dbb4e909a,acquaintance.lol,available,1.54,26.26,high,low,12,porkbun,,,28/09/2026 08:20
 adf278b9-ec7c-4ee0-9ed8-d7ba602496e5,approached.lol,available,1.99,32.49,medium,low,10,namesilo,,,17/09/2026 16:13
 beeda9cd-b7c0-4d79-9b06-4bf3794a2c1c,rajasthan.lol,available,1.8,40.98,medium,low,9,namecheap,,,29/09/2026 03:42
 5b858035-55d2-4e4c-b66d-de7777ee669a,dating.lol,premium,832,832,high,low,6,namesilo,,,29/09/2026 13:14
-0c63068c-e8a9-4ca9-9de5-fc8d03869e2b,tinkling.lol,available,1.8,40.98,high,low,8,namecheap,,,11/09/2026 16:13
+2e7c3771-9fba-42db-b0d7-ef1acb3c6ec2,consciously.lol,available,1.8,40.98,medium,low,11,namecheap,,,30/09/2026 20:00
+13a423a2-e82f-4fa8-ade1-6c4af8955bae,classifier.lol,available,1.99,32.49,high,low,10,namesilo,,,01/10/2026 01:28
+0c63068c-e8a9-4ca9-9de5-fc8d03869e2b,tinkling.lol,available,1.8,40.98,medium,low,8,namecheap,,,11/09/2026 16:13
 4f39fc2f-71b8-4700-94e3-7f3af0276ca3,ponds.lol,available,1.99,32.49,medium,low,5,namesilo,,,18/09/2026 22:37
 02644078-d6fa-48e6-b684-0d5533dda62d,undiluted.lol,available,1.8,40.98,medium,low,9,namecheap,,,12/09/2026 08:03
 05f7907d-9417-4224-8f9d-6e9ee6dcb3c1,assessment.lol,available,1.24,26.08,high,low,10,spaceship,,,28/09/2026 06:37
 0b25ca47-24da-4164-b374-e1f6d5f192cf,skittish.lol,available,1.8,40.98,high,low,8,namecheap,,,10/09/2026 09:48
-0bd78486-3f31-4390-9f70-1ffca6bf3f7c,inform.lol,resell,,,high,low,6,Dynadot Inc,11/08/2026 12:55,11/08/2027 23:59,26/09/2026 06:52
-efdf18e8-c5ac-4dda-979a-0aa338420f7e,bombproof.lol,available,1.8,40.98,high,low,9,namecheap,,,10/08/2026 18:09
+0bd78486-3f31-4390-9f70-1ffca6bf3f7c,inform.lol,resell,,,high,low,6,Dynadot Inc,11/08/2026 12:55,11/08/2027 23:59,30/09/2026 20:20
+efdf18e8-c5ac-4dda-979a-0aa338420f7e,bombproof.lol,available,1.8,40.98,medium,low,9,namecheap,,,10/08/2026 18:09
 c8c42d70-0307-4a6b-afde-06b27ddf1523,ingrowing.lol,available,1.8,40.98,medium,low,9,namecheap,,,22/08/2026 04:54
 42dbcc73-335c-4ad2-85f0-9f9774eaefa3,lyrate.lol,available,1.8,40.98,medium,low,6,namecheap,,,24/08/2026 12:39
 39874dd5-5f30-4980-a5b5-8c44dd9a4967,authorities.lol,available,1.99,32.49,medium,low,11,namesilo,,,27/09/2026 02:17
@@ -472,8 +504,9 @@ f7a10c58-e4b9-4a6d-a999-45848265d1c2,essene.lol,available,1.8,40.98,medium,low,6
 1500ad52-586d-4104-a792-cea56550a061,presenting.lol,available,1.5,26.97,medium,low,10,dynadot,,,28/09/2026 17:29
 4739b203-e6ea-4b1b-b348-ce0cbdb9b718,olympia.lol,available,1.99,32.49,high,low,7,namesilo,,,29/09/2026 07:18
 596ea104-c21e-44f6-bede-509684990ab4,acedia.lol,available,1.99,32.49,medium,low,6,namesilo,,,16/09/2026 23:26
+923f9214-5049-42ae-b119-5363c808655b,coimbra.lol,available,1.8,40.98,medium,low,7,namecheap,,,30/09/2026 21:37
 03e215dc-87d2-46f3-a42c-eb42c2732aa5,shrubby.lol,available,1.8,40.98,medium,low,7,namecheap,,,18/08/2026 17:15
-775eebc5-7640-4d25-8884-6b6a68181a9c,hotfoot.lol,available,1.8,40.98,high,low,7,namecheap,,,09/09/2026 19:44
+775eebc5-7640-4d25-8884-6b6a68181a9c,hotfoot.lol,available,1.8,40.98,medium,low,7,namecheap,,,09/09/2026 19:44
 b0bca129-adb1-43be-94e2-e534bc1e8d17,indigotin.lol,available,1.8,40.98,medium,low,9,namecheap,,,22/08/2026 03:05
 00e01451-f967-4b55-90fe-18ef6f14d81c,livonia.lol,available,0.99,49.99,medium,low,7,godaddy,,,30/09/2026 02:09
 283068eb-2464-4976-986d-8957cc86882e,theoretically.lol,available,1.24,26.08,low,low,13,spaceship,,,28/09/2026 17:35
@@ -483,6 +516,8 @@ e88197f9-ccc5-4b4f-b7f1-4eb38df8f81e,kalamazoo.lol,available,1.99,32.49,high,low
 b50d915d-6e70-4c97-973c-2ea15c9eea25,springfield.lol,available,1.99,32.49,high,low,11,namesilo,,,29/09/2026 22:00
 a8b8fd76-b5f5-469d-b5bf-b507f34c664e,favourite.lol,available,1.99,45.99,high,low,9,name.com,,,13/08/2026 18:17
 6cab9030-5255-4f79-9eac-7ee89abc4a2c,soundable.lol,available,1.8,40.98,medium,low,9,namecheap,,,17/08/2026 23:44
+755b3df5-fc26-4d23-abfa-f8668b5902e1,bernadette.lol,available,1.99,32.49,medium,low,10,namesilo,,,30/09/2026 05:01
+b349efff-3ca8-4934-b06e-ded179e798f1,soften.lol,available,1.99,32.49,high,low,6,namesilo,,,30/09/2026 09:18
 eba901d7-6b8e-4803-8505-e37f483902f1,throngs.lol,available,1.99,32.49,medium,low,7,namesilo,,,20/09/2026 14:21
 77ad5669-ba79-4f97-b961-0fd5539a44bf,heilong.lol,available,1.99,32.49,medium,low,7,namesilo,,,19/09/2026 00:15
 5020fc9c-614d-47d2-bef0-940b1a856b70,enrollment.lol,available,1.24,26.08,high,low,10,spaceship,,,28/09/2026 02:45
@@ -493,39 +528,45 @@ b31ab3d0-c1ed-4255-82a5-f3d68a26d2b6,grayly.lol,available,1.8,40.98,low,low,6,na
 fb7e311b-97da-45a3-b85c-fb3de978e113,unsheared.lol,available,1.8,40.98,low,low,9,namecheap,,,12/09/2026 19:44
 cc3cc1be-1234-484d-9222-9cdca68dbe2a,patterned.lol,available,1.8,40.98,high,low,9,namecheap,,,08/09/2026 10:49
 ffe012e8-3e26-4b45-98a0-ecf9cd740ba0,sideboard.lol,available,1.8,40.98,high,low,9,namecheap,,,24/09/2026 10:55
-64ded49a-6d63-4195-bafc-e60318d7ed47,orville.lol,available,1.99,32.49,high,low,7,namesilo,,,29/09/2026 09:46
-918d66cc-c184-4e4f-8c34-31e453e46723,windup.lol,available,1.8,40.98,high,low,6,namecheap,,,13/09/2026 12:18
+64ded49a-6d63-4195-bafc-e60318d7ed47,orville.lol,available,1.99,32.49,medium,low,7,namesilo,,,29/09/2026 09:46
+918d66cc-c184-4e4f-8c34-31e453e46723,windup.lol,available,1.8,40.98,medium,low,6,namecheap,,,13/09/2026 12:18
 19ec37ec-985b-4380-b670-b433a6563ffb,douglass.lol,available,1.99,32.49,high,low,8,namesilo,,,25/09/2026 22:23
 24b4002b-bdee-4be9-90a7-a6e031a983fe,clathrate.lol,available,1.8,40.98,medium,low,9,namecheap,,,11/08/2026 16:23
 302c07d1-9e92-4598-b8c8-86f0000a6b03,interests.lol,available,1.99,32.49,high,low,9,namesilo,,,25/09/2026 16:44
-d880aa94-98e6-46b0-bde4-4a89289d724f,marriage.lol,premium,2396,,high,low,8,name.com,,,
+991cc6ee-a8f9-4094-b3c2-04a524468026,filters.lol,available,1.99,32.49,medium,low,7,namesilo,,,30/09/2026 15:03
+d880aa94-98e6-46b0-bde4-4a89289d724f,marriage.lol,premium,2070.2,2070.2,high,low,8,spaceship,,,30/09/2026 03:47
 982fb238-1c61-45ae-90d3-185c449da03c,whitby.lol,available,1.8,40.98,medium,low,6,namecheap,,,29/09/2026 23:34
 5f0e9219-4be9-4e59-9820-4b626a25bef0,aristocrat.lol,available,1.99,32.49,high,low,10,namesilo,,,20/09/2026 05:51
 07b7029d-04ed-40ca-9ea1-f3fd0359c1d1,pastorale.lol,available,1.8,40.98,high,low,9,namecheap,,,08/09/2026 10:10
 d2cb136f-5c6e-4cb6-9b76-4a8880a65d16,hazardous.lol,available,1.8,40.98,medium,low,9,namecheap,,,21/08/2026 01:42
+26b187bf-4ac1-4fdb-a6f8-79b1f36b3442,spotting.lol,available,1.99,32.49,high,low,8,namesilo,,,30/09/2026 17:13
 2678808a-5172-45ab-af6b-31abfa5d4523,animating.lol,available,1.99,32.49,high,low,9,namesilo,,,29/09/2026 05:09
 7e4ef5fb-2fb8-4aac-ae26-1895fb81ffe5,avionics.lol,available,1.99,32.49,high,low,8,namesilo,,,21/09/2026 09:35
 1b66a136-349f-4394-9fee-902e47968cc7,fulgurant.lol,available,1.99,45.99,medium,low,9,name.com,,,13/08/2026 18:59
 94f6a058-391c-4d29-824b-0d7f4df29ec9,shopsoiled.lol,available,1.8,40.98,high,medium,10,namecheap,,,10/09/2026 06:45
+41b1dd47-a187-4db5-a027-f70e373e2718,kirchner.lol,available,1.24,26.08,medium,low,8,spaceship,,,30/09/2026 09:34
 a05ecb80-4760-4234-bb7c-75616587d197,pectoral.lol,available,1.8,40.98,medium,low,8,namecheap,,,08/09/2026 11:58
 93536993-7931-46c2-b11e-0f78813d0dc6,psychiatric.lol,available,1.24,26.08,medium,low,11,spaceship,,,28/09/2026 15:58
 27ffe287-fe95-4684-8c69-d8cbbb8e8d66,physicians.lol,available,1.54,26.26,medium,low,10,porkbun,,,30/09/2026 00:16
+8af63a8c-e296-4f73-b254-272b0127a1aa,manure.lol,available,1.24,26.08,high,low,6,spaceship,,,30/09/2026 10:32
 de4159f4-4876-4af7-bb35-4e2ea559a608,hardheaded.lol,available,1.8,40.98,medium,low,10,namecheap,,,21/08/2026 00:26
 e9c496c5-c602-4a1d-90f2-2241dae9df60,amalgamate.lol,available,1.99,32.49,high,low,10,namesilo,,,22/09/2026 03:01
 1503c7b8-4293-44c8-95f2-5aa42ca13505,woeful.lol,available,1.8,40.98,medium,low,6,namecheap,,,17/08/2026 16:46
 191a6038-f3fe-415c-a3aa-b073a21c8ca3,maude.lol,available,1.8,40.98,medium,low,5,namecheap,,,28/09/2026 12:05
-fde71eea-d715-40ec-834c-a74142346060,spaces.lol,resell,,,high,low,6,Dynadot Inc,16/08/2023 04:57,16/08/2027 23:59,28/09/2026 17:55
+fde71eea-d715-40ec-834c-a74142346060,spaces.lol,resell,,,medium,low,6,Dynadot Inc,16/08/2023 04:57,16/08/2027 23:59,28/09/2026 17:55
 fc245078-f644-41fb-839c-6f9812196969,mar.lol,premium,832,832,high,low,3,namesilo,,,24/09/2026 05:35
 d961e763-c18e-4fd8-b539-929bfcf99074,antigua.lol,available,1.8,40.98,high,low,7,namecheap,,,19/09/2026 14:32
 aa64cb5b-dc7c-4542-a27d-5262dcbc76a2,focuses.lol,available,1.99,32.49,medium,low,7,namesilo,,,20/09/2026 21:43
-2c7b081c-f0d9-42ae-908a-0a8c8305f8bc,pittsburgh.lol,available,1.99,,high,low,10,name.com,,,
+2c7b081c-f0d9-42ae-908a-0a8c8305f8bc,pittsburgh.lol,available,1.99,32.49,high,low,10,namesilo,,,30/09/2026 06:55
 75e54392-7923-4616-b2f8-2f235a135df3,cadet.lol,available,1.24,26.08,medium,low,5,spaceship,,,29/09/2026 00:18
 ab94a1a4-4d9c-4dff-99c0-245c413d86ad,marketable.lol,available,1.8,40.98,high,low,10,namecheap,,,24/08/2026 16:04
 64b35d94-0017-4ff2-9e93-213164bdd216,faced.lol,available,1.8,40.98,high,low,5,namecheap,,,17/08/2026 20:20
 6b756097-5a2a-46ae-bc25-55ccf4de2684,scummy.lol,available,1.8,40.98,medium,low,6,namecheap,,,
+b15714ae-d779-4e57-b051-9003dba072a2,remission.lol,available,1.24,26.08,high,low,9,spaceship,,,01/10/2026 03:27
 156a687b-e8fa-4619-b37b-2d975c76a5dd,bioethics.lol,available,1.8,40.98,high,low,9,namecheap,,,23/09/2026 17:56
+876d684c-6de6-492c-9721-e474c8fdd946,pune.lol,available,1.24,26.08,medium,low,4,spaceship,,,30/09/2026 12:49
 4d9f8417-f5fc-4fb4-9f82-e3eb7ce5ba3c,adequacy.lol,available,1.99,32.49,high,low,8,namesilo,,,17/09/2026 07:43
-81f99b78-0727-4bd4-9a10-e0fddbb36b74,oneiric.lol,available,1.8,40.98,high,low,7,namecheap,,,04/09/2026 15:12
+81f99b78-0727-4bd4-9a10-e0fddbb36b74,oneiric.lol,available,1.8,40.98,medium,low,7,namecheap,,,04/09/2026 15:12
 eafd88c9-f9b6-4db8-a339-a1aa59a6af22,lohan.lol,available,1.8,40.98,medium,low,5,namecheap,,,20/09/2026 05:07
 f21cc6cb-bd00-4c00-adce-6941a3ef0059,guttural.lol,available,1.8,40.98,medium,low,8,namecheap,,,13/08/2026 07:31
 f56b40c0-4cb8-4076-b526-881530b5e248,trouper.lol,available,1.8,40.98,high,low,7,namecheap,,,22/09/2026 06:54
@@ -564,35 +605,39 @@ d2317c74-652d-41bf-bdf0-dd1fc1dc536e,pitahaya.lol,available,1.99,32.49,medium,lo
 506960cb-ebd9-4de6-9435-3f07d919dc56,drily.lol,available,1.8,40.98,medium,low,5,namecheap,,,14/09/2026 14:23
 4115a3d1-3434-4478-a33f-b26d0e69c862,stealthy.lol,available,1.8,40.98,medium,low,8,namecheap,,,18/08/2026 19:00
 0e3099b6-cfc6-4c05-972c-d0731c2a2cd4,appreciated.lol,available,1.24,26.08,high,low,11,spaceship,,,28/09/2026 07:22
+031c58fb-1bb3-498f-b66c-223900289db6,sociology.lol,available,1.24,26.08,high,low,9,spaceship,,,30/09/2026 18:45
 808e0486-515b-42da-a9dd-27606a3f07d3,liberties.lol,available,1.99,32.49,medium,low,9,namesilo,,,18/09/2026 04:52
+5adb0928-441f-4856-994c-98241b04eabc,biographical.lol,available,1.99,32.49,medium,low,12,namesilo,,,01/10/2026 05:35
 6825163b-2955-4e5b-842a-f0d0832e456c,ordeal.lol,available,1.24,26.08,medium,low,6,spaceship,,,29/09/2026 07:47
-d7b49f6d-2bfb-4f3e-9741-9acd6ccbeaf8,amputation.lol,available,1.99,32.49,high,low,10,namesilo,,,18/09/2026 23:52
+d7b49f6d-2bfb-4f3e-9741-9acd6ccbeaf8,amputation.lol,available,1.99,32.49,medium,low,10,namesilo,,,18/09/2026 23:52
 b22786b2-9916-4e18-a9e7-7289cec5e05f,chelate.lol,available,1.8,40.98,medium,low,7,namecheap,,,12/08/2026 04:03
 c2a2779a-92bc-49bd-9c6e-995822e0ccf1,extant.lol,available,1.8,40.98,medium,low,6,namecheap,,,17/08/2026 18:56
 ca8b6e0f-5ebe-4c63-9690-c1e42db120da,godfrey.lol,available,1.8,40.98,high,low,7,namecheap,,,25/09/2026 18:26
 ae589a88-7904-4547-baaa-40e4f06f48f9,dependent.lol,available,1.8,40.98,high,low,9,namecheap,,,14/08/2026 02:06
 57d1dbab-b276-4128-ace0-d17d64c682c5,grandparent.lol,available,1.99,32.49,high,low,11,namesilo,,,19/09/2026 04:27
+bc50e739-7112-4551-a350-379fb6e241e8,reggio.lol,available,1.99,32.49,high,low,6,namesilo,,,30/09/2026 12:52
 640ccdaa-176f-4d84-95ae-d8b9af45c844,readings.lol,available,1.54,26.26,medium,low,8,porkbun,,,28/09/2026 23:42
 095276fa-97d8-47ba-b011-244d6efea5eb,denary.lol,available,1.8,40.98,medium,low,6,namecheap,,,13/08/2026 21:30
 4d0cb569-8ce2-4f4c-9a76-7c9ab943ffcd,expandable.lol,available,1.8,40.98,high,low,10,namecheap,,,17/08/2026 17:51
 e0d8667c-4e8f-4406-8cc1-6f89ce5296d0,lapsing.lol,available,1.8,40.98,medium,low,7,namecheap,,,09/09/2026 16:15
-11c29f4a-74c8-4951-9cb9-4875ec1d838a,hesitation.lol,available,1.99,32.49,high,low,10,namesilo,,,24/09/2026 16:28
+11c29f4a-74c8-4951-9cb9-4875ec1d838a,hesitation.lol,available,1.99,32.49,medium,low,10,namesilo,,,24/09/2026 16:28
 212f2a8a-b667-4ffc-9bc8-313267b25c55,terribly.lol,available,1.99,32.49,medium,low,8,namesilo,,,22/09/2026 15:23
-81005db2-ffdb-4c8c-a245-cbbcebf17280,experienced.lol,available,1.99,32.49,high,low,11,namesilo,,,
+81005db2-ffdb-4c8c-a245-cbbcebf17280,experienced.lol,available,1.54,26.26,high,low,11,porkbun,,,01/10/2026 06:08
 962cbe11-fc3a-40f7-bdfe-59bd84b7db5f,barricade.lol,available,1.8,40.98,medium,low,9,namecheap,,,22/09/2026 08:32
 b0469d07-cc2a-40f7-8d5f-d5efe3e94b95,bras.lol,available,1.99,32.49,high,low,4,namesilo,,,17/09/2026 13:20
 7509981b-73d4-43ae-a785-ec70db00a4be,tricolour.lol,available,1.8,40.98,high,low,9,namecheap,,,11/09/2026 19:27
 af149ea0-3277-4db6-a65c-490829aa04b1,ambler.lol,available,1.8,40.98,medium,low,6,namecheap,,,18/09/2026 17:07
 2a971aec-9b9c-4cec-ad6f-0652c017a26c,forearm.lol,available,0.99,49.99,high,low,7,godaddy,,,30/09/2026 01:41
 1f00e36b-d651-4f44-9a28-944d8f0c3e2f,modernity.lol,available,1.99,32.49,high,low,9,namesilo,,,24/09/2026 17:40
+3bfb6d29-cddb-4340-ab23-14290fc729a2,adorno.lol,available,1.99,32.49,medium,low,6,namesilo,,,01/10/2026 06:08
 eea74a7b-63fe-457d-8524-af33d549770f,curvey.lol,available,1.8,40.98,medium,low,6,namecheap,,,13/08/2026 11:51
 9b39850e-0de8-470a-9af6-3625a806b7a3,overjoyed.lol,available,1.8,40.98,high,low,9,namecheap,,,04/09/2026 20:49
-220a6e27-5ab1-413c-90cd-76e0f54a0aba,occasionally.lol,available,1.99,32.49,high,low,12,namesilo,,,27/09/2026 17:20
-11ba617a-bdd8-490c-ace3-0062f1ba25aa,stepson.lol,available,1.99,,high,low,7,name.com,,,
+220a6e27-5ab1-413c-90cd-76e0f54a0aba,occasionally.lol,available,1.99,32.49,medium,low,12,namesilo,,,27/09/2026 17:20
+11ba617a-bdd8-490c-ace3-0062f1ba25aa,stepson.lol,available,1.24,26.08,high,low,7,spaceship,,,30/09/2026 12:01
 1ab6cea9-711f-452b-8850-cd6dc6fcb758,serb.lol,available,1.8,40.98,high,low,4,namecheap,,,10/09/2026 04:35
 4f93d9ea-a9fb-4fc5-b716-7d3eda32975f,unimposing.lol,available,1.8,40.98,medium,low,10,namecheap,,,12/09/2026 13:12
 a794e066-4e19-4fc1-8484-fab665614160,kettering.lol,available,1.5,26.97,medium,low,9,dynadot,,,29/09/2026 06:20
-1151e460-e4e0-429e-bffa-aca4731f27d1,anglian.lol,available,1.99,32.49,high,low,7,namesilo,,,19/09/2026 06:48
+1151e460-e4e0-429e-bffa-aca4731f27d1,anglian.lol,available,1.99,32.49,medium,low,7,namesilo,,,19/09/2026 06:48
 8ad29c61-216f-4390-8d06-5f9881c406ea,mouthfeel.lol,available,1.99,,medium,low,10,name.com,,,
 d147bc06-219a-4184-8878-ce6d68968ac5,halting.lol,available,1.8,40.98,medium,low,7,namecheap,,,13/08/2026 07:02
 09c8be3d-2105-427a-9f01-03b5edf85d13,piebald.lol,available,1.8,40.98,medium,low,7,namecheap,,,03/09/2026 10:37
@@ -605,32 +650,35 @@ bf670c58-a594-4a18-b1b8-55b0e52b72a5,trivially.lol,available,1.99,32.49,low,low,
 5ac74ce1-95e3-4b7b-9bac-09e4b5b14b7b,occluded.lol,available,1.8,40.98,medium,low,8,namecheap,,,04/09/2026 00:12
 ee8ad57f-52d4-4d3c-91bc-1dd6d33a56e6,brushy.lol,available,1.8,40.98,medium,low,6,namecheap,,,10/08/2026 20:19
 259fe7c3-4b83-49bd-8e84-38737470f53c,venerable.lol,available,1.99,32.49,high,low,9,namesilo,,,27/09/2026 14:05
-bb44a896-ee64-4835-af24-7e613ae57318,chatterer.lol,available,1.99,32.49,high,low,9,namesilo,,,21/09/2026 12:24
+bb44a896-ee64-4835-af24-7e613ae57318,chatterer.lol,available,1.99,32.49,medium,low,9,namesilo,,,21/09/2026 12:24
 aaba99ca-6b5e-4399-bde5-6cdc355e31bf,crazed.lol,available,1.8,40.98,medium,low,6,namecheap,,,13/08/2026 05:31
 b9328797-1926-4fb7-917b-6eab70368e48,apulia.lol,available,1.8,40.98,medium,low,6,namecheap,,,19/09/2026 22:42
 8c0ce6eb-721b-4fa3-95e3-a7f7e48d6021,boast.lol,available,1.8,40.98,high,low,5,namecheap,,,11/08/2026 01:02
-f6782f2c-188d-4909-93a1-5575d3524c5e,ventilation.lol,available,1.24,26.08,high,low,11,spaceship,,,29/09/2026 04:52
-a3144d55-1321-443b-976c-530c2cb99686,orphic.lol,available,1.8,40.98,high,low,6,namecheap,,,03/09/2026 12:27
+f6782f2c-188d-4909-93a1-5575d3524c5e,ventilation.lol,available,1.24,26.08,medium,low,11,spaceship,,,29/09/2026 04:52
+a3144d55-1321-443b-976c-530c2cb99686,orphic.lol,available,1.8,40.98,medium,low,6,namecheap,,,03/09/2026 12:27
 f682b09e-b6f3-4ee1-8a72-01cd1faedd96,preventive.lol,available,1.99,32.49,high,low,10,namesilo,,,23/09/2026 22:24
 338f1d4f-196e-413a-9ed4-54cbaa17c982,acutely.lol,available,1.8,40.98,high,medium,7,namecheap,,,10/09/2026 06:02
+bb152c81-7a67-4fd1-ad79-09f135defb14,limburg.lol,available,1.99,32.49,medium,low,7,namesilo,,,30/09/2026 23:06
 693b289a-69cd-42d4-b289-bf073cc7d45e,aflutter.lol,available,1.8,40.98,medium,low,8,namecheap,,,
 a0337c3f-0845-4e4e-b2c8-9086031f017d,assemblage.lol,available,1.99,32.49,high,low,10,namesilo,,,17/09/2026 17:28
 f08f0f74-4a31-413a-85f3-6f3bbb26f0d6,improperly.lol,available,1.8,40.98,medium,low,10,namecheap,,,15/09/2026 04:32
 85c7b2b6-86d9-4f16-bc12-43274d5513ca,soundproof.lol,available,1.8,40.98,high,medium,10,namecheap,,,10/09/2026 14:44
 f27833ff-fc83-411f-8af6-1d1632818f8b,mules.lol,available,1.24,26.08,high,low,5,spaceship,,,29/09/2026 21:20
 0ad37b52-15bd-4921-9e5a-5c7ea7c54a0f,dentistry.lol,available,1.8,40.98,high,low,9,namecheap,,,24/09/2026 21:55
-aa800e81-6efc-4eb2-9648-f1b11b04fa04,hindoo.lol,available,1.8,40.98,high,low,6,namecheap,,,21/08/2026 09:33
+aa800e81-6efc-4eb2-9648-f1b11b04fa04,hindoo.lol,available,1.8,40.98,medium,low,6,namecheap,,,21/08/2026 09:33
 4df1366e-4fc9-46b7-aadd-d3d4e1f95f17,atomism.lol,available,1.99,32.49,medium,low,7,namesilo,,,21/09/2026 00:24
 b68bc3cb-73f0-4de2-8755-d5af79576a4a,issus.lol,available,1.8,40.98,medium,low,5,namecheap,,,22/09/2026 15:11
-a4fc3e4d-3191-4b0e-a244-087ebc5ab330,performers.lol,available,1.8,40.98,high,low,10,namecheap,,,30/09/2026 00:18
+a4fc3e4d-3191-4b0e-a244-087ebc5ab330,performers.lol,available,1.8,40.98,medium,low,10,namecheap,,,30/09/2026 00:18
 a219437e-4734-435d-af0a-433596c2da7c,fitzpatrick.lol,available,1.99,32.49,medium,low,11,namesilo,,,27/09/2026 07:56
 b4f5df7a-2a90-427b-b568-9f04ace8ac40,perceptive.lol,available,1.8,40.98,high,low,10,namecheap,,,08/09/2026 16:12
 45c00d8e-0605-45a3-bb49-8a511cb5b072,fittingly.lol,available,1.8,40.98,medium,low,9,namecheap,,,13/09/2026 20:32
+941ee786-c95d-4e29-8374-6ac3913a590b,rehearse.lol,available,1.99,32.49,high,low,8,namesilo,,,01/10/2026 04:23
 527457dd-1013-401e-9590-866b4c7b837a,baud.lol,available,1.8,40.98,medium,low,4,namecheap,,,22/09/2026 16:32
+07407184-4d5b-4e77-a5ca-eafcdf5bf4b6,ribeiro.lol,available,1.24,26.08,medium,low,7,spaceship,,,30/09/2026 21:59
 0c550d31-0519-4838-b4d5-030926f3bf26,tutorial.lol,premium,845,845,high,low,8,namecheap,,,11/09/2026 21:31
 e581dee0-6ba3-4105-a22a-ff5ce829449d,uric.lol,available,1.8,40.98,medium,low,4,namecheap,,,12/09/2026 23:37
 a8382993-602c-4b0e-a9cb-a9bb1a4d0b46,commodore.lol,available,1.54,26.26,high,low,9,porkbun,,,29/09/2026 11:55
-a02d0a05-dd8e-462d-83d0-c9ea6dbfe581,redevelopment.lol,available,1.24,26.08,medium,low,13,spaceship,,,28/09/2026 05:35
+a02d0a05-dd8e-462d-83d0-c9ea6dbfe581,redevelopment.lol,available,1.99,32.49,medium,low,13,namesilo,,,01/10/2026 03:37
 c70cda75-0968-438a-8da3-47f09b509d27,footsteps.lol,available,1.24,26.08,medium,low,9,spaceship,,,28/09/2026 12:42
 447e3b26-e0c6-453f-b20b-a7efd2c0c9be,abandonment.lol,available,1.99,32.49,medium,low,11,namesilo,,,29/09/2026 22:48
 54071403-1b58-473b-9b06-f36ef16d1b67,georgina.lol,available,1.99,32.49,medium,low,8,namesilo,,,29/09/2026 21:55
@@ -640,9 +688,13 @@ bb04cb11-637a-4101-8242-31c1fe6e7f3f,comforter.lol,available,1.8,40.98,medium,lo
 6bd00ba1-8634-4bd3-b5ac-2c01d22f7662,incite.lol,available,1.8,40.98,high,low,6,namecheap,,,09/09/2026 03:18
 023f2ee1-6b5f-4f4d-95b4-6dd203739473,hierarch.lol,available,1.8,40.98,medium,low,8,namecheap,,,20/09/2026 02:30
 ff1e8a1b-b192-4f27-a533-bdd68136bbfe,uttered.lol,available,1.8,40.98,medium,low,7,namecheap,,,17/08/2026 18:44
+d422cc2b-a63d-4f84-ab1b-d289bc19bf86,kankakee.lol,available,1.99,32.49,medium,low,8,namesilo,,,30/09/2026 22:09
+edecf891-5c99-4979-ad09-7a2855feea3b,ticonderoga.lol,available,1.99,32.49,medium,low,11,namesilo,,,30/09/2026 22:22
 927b6740-3dfd-49b3-9fb0-1d531ea495f1,samoan.lol,available,1.8,40.98,high,medium,6,namecheap,,,09/09/2026 21:09
 83234b4e-c28a-4d4d-a665-0291c846d568,attestor.lol,available,1.99,32.49,medium,low,8,namesilo,,,21/09/2026 01:38
 c7dab8d1-37a7-40a5-997c-1a834684abec,southampton.lol,available,1.8,40.98,medium,low,11,namecheap,,,25/09/2026 14:27
+3d5630ba-b5f6-4bcc-877c-6fb883761d10,announcements.lol,available,1.99,32.49,low,low,13,namesilo,,,30/09/2026 06:45
+64c825a2-cbbd-49bd-b96c-37943f7f1d95,neutrophils.lol,available,1.99,32.49,low,low,11,namesilo,,,30/09/2026 14:46
 d0440b40-eb3a-4086-a986-b78b6533627a,renewed.lol,available,1.8,40.98,high,low,7,namecheap,,,09/09/2026 14:04
 3c6ab160-d3b5-497a-978c-82a5df7757de,lovingness.lol,available,1.8,40.98,high,low,10,namecheap,,,11/08/2026 19:18
 92e068d9-366b-4a96-b364-bdf530a2bef9,glances.lol,available,1.99,45.99,medium,low,7,name.com,,,18/09/2026 02:11
@@ -654,22 +706,24 @@ d5fa99e1-c7c7-4dfb-a13e-5a12c0973d14,vivaldi.lol,available,1.99,32.49,high,low,7
 1927a7f5-c1cc-4125-8a33-11bbc93c40df,lower.lol,available,1.24,26.08,high,low,5,spaceship,,,29/09/2026 20:00
 604a01e6-9290-452e-8acd-aba99ceff5be,stamford.lol,available,1.8,40.98,high,low,8,namecheap,,,25/09/2026 16:33
 05e82e44-3af4-4080-a125-96d440463310,burn.lol,resell,,,high,low,4,"NameCheap, Inc.",12/05/2018 21:32,12/05/2027 23:59,28/09/2026 02:13
+82d33b67-4390-44fa-b652-a1e6a66bcffb,diptera.lol,available,1.24,26.08,medium,low,7,spaceship,,,30/09/2026 17:00
 0d0c5645-704b-494e-a19d-3cc035a718c0,drawn.lol,available,1.8,40.98,high,low,5,namecheap,,,23/09/2026 12:57
 bf145dff-f6df-4732-b1b6-cb86b3f9292b,estimators.lol,available,1.99,32.49,medium,low,10,namesilo,,,20/09/2026 23:34
+c0e29b33-3289-4c07-acd7-5e9aa329026e,ravens.lol,premium,2070.2,2070.2,medium,low,6,spaceship,,,30/09/2026 07:01
 44d5d4a8-0185-4a83-b723-cb9198e1033f,jument.lol,available,1.8,40.98,medium,low,6,namecheap,,,22/09/2026 21:27
-7c9307f9-2a2f-4fb6-be5e-df7a2dbfb58b,showed.lol,available,1.99,,high,low,6,name.com,,,
+7c9307f9-2a2f-4fb6-be5e-df7a2dbfb58b,showed.lol,available,1.99,,medium,low,6,name.com,,,
 38a4e1cd-171d-4e73-b73c-23a640aa217a,lutzen.lol,available,1.99,32.49,medium,low,6,namesilo,,,22/09/2026 15:24
 11a3f900-9997-481b-983d-54ba94772d6e,separable.lol,available,1.8,40.98,medium,low,9,namecheap,,,14/08/2026 12:50
 861fb233-9036-4631-a5c3-e47aa83ed536,bette.lol,available,1.99,32.49,medium,low,5,namesilo,,,29/09/2026 15:28
 d43b2244-e9f5-44f6-86ca-273c6e5a6d26,formative.lol,available,1.8,40.98,high,low,9,namecheap,,,18/08/2026 12:07
 746d8dfb-ffa0-41b0-b528-634daad28984,pancake.lol,resell,,,high,low,7,Dynadot Inc,17/02/2026 14:20,17/02/2027 23:59,26/09/2026 08:00
 d70d176e-16ea-4863-beec-013a000c9fd2,priorities.lol,available,1.99,32.49,medium,low,10,namesilo,,,28/09/2026 17:39
-5b1cf5d3-23ba-4cab-936f-a2351097d5a9,absolutist.lol,available,1.8,40.98,high,low,10,namecheap,,,
+5b1cf5d3-23ba-4cab-936f-a2351097d5a9,absolutist.lol,available,1.8,40.98,medium,low,10,namecheap,,,
 ee5fb31b-4d5c-40a2-9772-6f9ba5fc36b9,chatoyant.lol,available,1.8,40.98,medium,low,9,namecheap,,,12/08/2026 03:13
 8a62d784-f773-4640-954d-27ad2691a209,laying.lol,available,1.99,32.49,high,low,6,namesilo,,,25/09/2026 22:34
 b4951578-67e5-4109-9290-191a83c6c611,squinty.lol,available,1.8,40.98,medium,low,7,namecheap,,,07/08/2026 03:20
 ff7ce66d-8871-4ad1-a0ca-ec8af3a22cf8,diffused.lol,available,1.8,40.98,medium,low,8,namecheap,,,14/08/2026 07:08
-2ff30997-e74e-47f7-aa23-f35f08201bcd,modena.lol,available,1.8,40.98,high,low,6,namecheap,,,29/09/2026 03:43
+2ff30997-e74e-47f7-aa23-f35f08201bcd,modena.lol,available,1.8,40.98,medium,low,6,namecheap,,,29/09/2026 03:43
 b2c6ef84-d2df-41a1-807c-189cb72e65dc,attending.lol,available,1.99,32.49,high,low,9,namesilo,,,21/09/2026 01:25
 27954fb4-8f34-45b0-8320-0efa0ed2eedd,tenebrous.lol,available,1.8,40.98,medium,low,9,namecheap,,,11/09/2026 11:19
 059a1cfb-a424-4d33-9c5f-3d728e9f4417,feverish.lol,available,1.8,40.98,medium,low,8,namecheap,,,18/08/2026 00:29
@@ -695,43 +749,47 @@ c76014ef-23c3-4861-afe5-2b6cdaa8af21,leathery.lol,available,1.8,40.98,medium,low
 a7a00415-3a66-4d32-8b77-c25bdb130fd8,blacktail.lol,available,1.99,32.49,medium,low,9,namesilo,,,23/09/2026 23:51
 eb34561c-2e81-416c-a514-966cc1b495ec,toroidal.lol,available,1.8,40.98,medium,low,8,namecheap,,,11/09/2026 17:55
 25e220b9-b041-4ae4-b812-559d841e7ccf,committees.lol,available,1.99,32.49,medium,low,10,namesilo,,,20/09/2026 09:05
-6e6d723b-bc13-4601-935d-0c710e36362d,visioned.lol,available,1.99,45.99,high,low,8,name.com,,,20/09/2026 16:28
+6e6d723b-bc13-4601-935d-0c710e36362d,visioned.lol,available,1.99,45.99,medium,low,8,name.com,,,20/09/2026 16:28
 46831067-189b-4a2f-90e6-78fcd6743cd0,penalties.lol,available,1.99,,high,low,9,name.com,,,
+c340f174-3724-4639-90fe-cd04bb6d92a8,mesoamerican.lol,available,1.99,32.49,medium,low,12,namesilo,,,01/10/2026 06:11
 700d1154-3223-4eac-a239-206e79031fd9,oversized.lol,available,1.8,40.98,high,low,9,namecheap,,,04/09/2026 19:45
-9bca2d2e-0d9a-49b5-a402-4baf781d0981,eviction.lol,available,1.99,32.49,high,low,8,namesilo,,,24/09/2026 17:35
+9bca2d2e-0d9a-49b5-a402-4baf781d0981,eviction.lol,available,1.99,32.49,medium,low,8,namesilo,,,24/09/2026 17:35
 54080052-6477-4f48-bbfd-7f59dbf4e9b9,domesday.lol,available,1.24,26.08,medium,low,8,spaceship,,,29/09/2026 09:11
 b5f1ccdd-df12-4ee1-b27e-f13958caed1f,bridgeable.lol,available,1.8,40.98,medium,low,10,namecheap,,,11/08/2026 04:00
 489e0037-273d-4bfb-a3f9-925c159e6b2b,abettal.lol,available,1.99,32.49,medium,low,7,namesilo,,,16/09/2026 15:18
 984ea43a-eb26-4a8e-8e06-ba0d434621f6,disapproval.lol,available,1.99,32.49,medium,low,11,namesilo,,,
-f65c1bb9-9c38-4526-a4b8-2fcf1eebf3f1,niece.lol,available,1.99,,high,low,5,name.com,,,
+f65c1bb9-9c38-4526-a4b8-2fcf1eebf3f1,niece.lol,available,1.99,32.49,high,low,5,namesilo,,,30/09/2026 05:40
 e6502282-2b48-4850-a90c-c1405e7c73c8,hemorrhage.lol,available,1.99,32.49,medium,low,10,namesilo,,,24/09/2026 05:28
 869b2366-6485-4ac9-a783-eec72d052aff,ascites.lol,available,1.99,32.49,medium,low,7,namesilo,,,20/09/2026 13:17
 68b1c7f5-3b4e-4c57-86f1-5b0771158125,djia.lol,available,1.99,32.49,medium,low,4,namesilo,,,
 1febb67b-af12-4f65-937b-b8bd68d27bbf,altogether.lol,available,1.8,40.98,high,low,10,namecheap,,,
 23e0443c-ad87-44c1-8ee6-475fd21d327c,opening.lol,available,1.8,40.98,high,low,7,namecheap,,,04/09/2026 16:15
 36aeb871-2915-404f-b78d-951f8f6c4ae7,bewildered.lol,available,1.8,40.98,medium,low,10,namecheap,,,07/08/2026 11:52
-5ec285fb-19ff-4384-a32f-6400264c29bb,socialised.lol,available,1.8,40.98,high,low,10,namecheap,,,10/09/2026 13:14
+5ec285fb-19ff-4384-a32f-6400264c29bb,socialised.lol,available,1.8,40.98,medium,low,10,namecheap,,,10/09/2026 13:14
 507245b5-b46d-46a7-8a49-fd9219c7b665,dyadic.lol,available,1.8,40.98,medium,low,6,namecheap,,,14/08/2026 21:52
 79bb503b-b87a-4181-a0fe-ad9f8f2e052f,dogfish.lol,available,1.8,40.98,high,low,7,namecheap,,,18/09/2026 21:24
 496f185c-4fdd-435d-ab36-bb31c27c18c9,instruction.lol,available,1.24,26.08,high,low,11,spaceship,,,28/09/2026 02:38
 43e6b0ae-f92d-4ecc-b60a-f99564bf581a,adding.lol,available,1.99,32.49,high,low,6,namesilo,,,
+749515d8-af70-4f60-8634-be6b475c442e,allergies.lol,available,1.99,32.49,medium,low,9,namesilo,,,30/09/2026 23:41
 7a675b14-76d7-42a5-b527-b3ff595089ce,devotedly.lol,available,1.8,40.98,medium,low,9,namecheap,,,14/09/2026 12:28
 0cde447c-742a-4351-8b3c-9b7a9a3afc2b,uptight.lol,available,1.8,40.98,high,low,7,namecheap,,,15/08/2026 09:30
 f17d79dc-997e-4718-96a6-4b131a8081aa,preoccupied.lol,available,1.24,26.08,medium,low,11,spaceship,,,29/09/2026 08:47
-9a5abb6b-d4fa-462e-b10f-884b0657a761,glaswegian.lol,available,1.8,40.98,high,low,10,namecheap,,,20/08/2026 14:14
+9a5abb6b-d4fa-462e-b10f-884b0657a761,glaswegian.lol,available,1.8,40.98,medium,low,10,namecheap,,,20/08/2026 14:14
 144fc2e6-d865-4479-bcb7-818004cd70d1,antidotal.lol,available,1.8,40.98,medium,low,9,namecheap,,,
 8c5a117b-f690-49e4-8632-0c838339a8b1,permian.lol,available,1.99,32.49,high,low,7,namesilo,,,27/09/2026 15:11
-e10faf76-3789-44f2-90c2-4cb94cbada58,encouraging.lol,available,1.99,32.49,high,low,11,namesilo,,,
+e10faf76-3789-44f2-90c2-4cb94cbada58,encouraging.lol,available,1.99,32.49,high,low,11,namesilo,,,01/10/2026 06:18
 4f5fbd33-8c32-456e-8343-a075d159479e,festivities.lol,available,1.24,26.08,high,low,11,spaceship,,,29/09/2026 22:56
 aca84e6b-0566-4294-a750-ea1cfc548d67,hallowmas.lol,available,1.99,32.49,medium,low,9,namesilo,,,18/09/2026 09:30
 93020158-31f9-4974-a3eb-ef57c8a55c50,wickedness.lol,available,1.8,40.98,medium,low,10,namecheap,,,17/08/2026 15:06
-5092fb65-75aa-43d8-90de-b3378245ac3f,ionized.lol,available,1.8,40.98,high,low,7,namecheap,,,22/08/2026 09:31
+5092fb65-75aa-43d8-90de-b3378245ac3f,ionized.lol,available,1.8,40.98,medium,low,7,namecheap,,,22/08/2026 09:31
 9ba4af6c-181b-4347-aa6f-2784d6b6773e,predatory.lol,available,1.8,40.98,medium,low,9,namecheap,,,24/08/2026 15:43
 211e3623-8ccd-4d0d-bd22-6dd55a1e837d,abaya.lol,available,1.99,32.49,medium,low,5,namesilo,,,16/09/2026 14:18
+ba82ddf0-e9b1-4f15-8610-7887adf3e880,rawson.lol,available,1.24,26.08,medium,low,6,spaceship,,,30/09/2026 21:33
 e698aa0f-c440-4173-8709-b99a563fa23b,pulmonic.lol,available,1.8,40.98,high,medium,8,namecheap,,,09/09/2026 05:55
+9e350453-1797-48f6-a7c2-18c31cfd9af5,lauderdale.lol,available,1.24,26.08,medium,low,10,spaceship,,,30/09/2026 22:04
 d490aefe-ddf2-4dc7-a579-4e3bc26e2d71,fuddled.lol,available,1.8,40.98,low,low,7,namecheap,,,09/08/2026 15:36
 2339ba13-08f1-48f1-948c-8b4d4219b7ec,legless.lol,available,1.8,40.98,medium,low,7,namecheap,,,22/08/2026 23:13
-8d2467d7-c9e7-4322-9620-92b6c2645daf,formally.lol,available,1.8,40.98,high,low,8,namecheap,,,14/09/2026 19:42
+8d2467d7-c9e7-4322-9620-92b6c2645daf,formally.lol,available,1.8,40.98,medium,low,8,namecheap,,,14/09/2026 19:42
 985897d5-36b1-4318-9871-ac7c3c188615,decayed.lol,available,1.8,40.98,medium,low,7,namecheap,,,13/08/2026 20:59
 cdc44634-e4de-4e1c-acf2-a99310a17905,replied.lol,available,1.99,32.49,medium,low,7,namesilo,,,18/09/2026 01:09
 3548fe61-7512-44b1-9d1c-649463ff2410,middletown.lol,available,1.24,26.08,medium,low,10,spaceship,,,27/09/2026 21:20
@@ -743,12 +801,12 @@ acca8f3d-0ab2-491d-b84c-cb21891838ef,disharmony.lol,available,1.99,32.49,medium,
 221e830a-1194-4cd0-a0c9-3e7b96570d15,phocine.lol,available,1.8,40.98,medium,low,7,namecheap,,,08/09/2026 18:58
 5c509858-7ce8-475a-8b39-04ee60171e29,throated.lol,available,1.8,40.98,medium,low,8,namecheap,,,11/09/2026 14:39
 fc90a63a-f6eb-43ae-95c0-f1937e6fe827,barkeep.lol,available,1.99,32.49,high,low,7,namesilo,,,22/09/2026 06:22
-7069179d-59e9-444e-b1c1-d22fd39be509,rectified.lol,available,1.8,40.98,high,low,9,namecheap,,,09/09/2026 11:55
+7069179d-59e9-444e-b1c1-d22fd39be509,rectified.lol,available,1.8,40.98,medium,low,9,namecheap,,,09/09/2026 11:55
 0ba20161-9336-4588-b176-2b2f36daa216,disinfection.lol,available,1.8,40.98,high,low,12,namecheap,,,17/09/2026 16:37
 3c275a8c-7d2c-4b46-99f2-054f37eddf7b,marries.lol,available,1.24,26.08,medium,low,7,spaceship,,,28/09/2026 23:51
 651ad39a-0b76-4b5b-a78b-9c2b36593bda,blamed.lol,available,1.8,40.98,medium,low,6,namecheap,,,10/08/2026 12:39
 f84a9940-a671-4708-a0d1-37e586132a4f,conceived.lol,available,1.24,26.08,medium,low,9,spaceship,,,28/09/2026 22:54
-a334948e-ebeb-4dbb-8604-958fe320b315,beefcake.lol,available,1.8,40.98,high,low,8,namecheap,,,23/09/2026 01:06
+a334948e-ebeb-4dbb-8604-958fe320b315,beefcake.lol,available,1.8,40.98,medium,low,8,namecheap,,,23/09/2026 01:06
 f9708d21-1d35-4a0e-8a78-a85c36a5b532,methionine.lol,available,1.99,32.49,medium,low,10,namesilo,,,30/09/2026 02:16
 e5bad9f8-c2a4-4a81-9359-e4332dbbdd54,wiry.lol,available,1.8,40.98,medium,low,4,namecheap,,,10/09/2026 22:42
 4832bd2e-a87c-495b-80dc-040ffd32ece7,throughout.lol,available,1.8,40.98,medium,low,10,namecheap,,,17/08/2026 00:49
@@ -759,35 +817,38 @@ bfb438fb-d1e6-4389-862b-27e44946de1f,english.lol,premium,845,845,high,low,7,name
 7b023def-1b57-40b1-aeac-1c8209444347,balsa.lol,available,1.99,32.49,high,low,5,namesilo,,,21/09/2026 23:56
 c876963c-ee1d-4ebd-993d-1bfc88aad1f8,ordain.lol,available,1.8,40.98,high,low,6,namecheap,,,12/08/2026 22:27
 313aac81-8f43-41b1-bd2d-600d1872109b,plattensee.lol,available,1.8,40.98,medium,low,10,namecheap,,,21/09/2026 21:22
-df009e14-8f6f-43ab-aa4e-cbf6b3e77676,affirm.lol,premium,2396,,high,high,6,name.com,,,
+df009e14-8f6f-43ab-aa4e-cbf6b3e77676,affirm.lol,premium,2660,2660,high,high,6,namesilo,,,30/09/2026 12:40
 f0cf4507-832d-4b11-b055-d86448c6df8e,seeing.lol,available,1.99,32.49,high,low,6,namesilo,,,27/09/2026 19:35
 53c62ec2-e16f-45ea-8ce9-dcf63537005f,pleading.lol,available,1.8,40.98,medium,low,8,namecheap,,,09/08/2026 15:21
 7139c8c4-dd5f-499e-a125-3ffd061ba985,maricopa.lol,available,1.5,26.97,high,low,8,dynadot,,,29/09/2026 13:23
 3994d4a0-142f-4e84-945c-ed7239c9c75e,smoothen.lol,available,1.8,40.98,medium,low,8,namecheap,,,08/09/2026 23:04
 738f8e6e-3e93-4907-a57f-da47269091f9,gym.lol,premium,832,832,high,low,3,namesilo,,,29/09/2026 21:52
-020685b1-529d-4cf3-84fc-5f5c607bd3c9,zapata.lol,available,1.99,32.49,high,low,6,namesilo,,,29/09/2026 18:45
+3a566f12-92e6-4e39-be3b-ff62e5022e78,mandal.lol,available,1.24,26.08,medium,low,6,spaceship,,,30/09/2026 20:27
+020685b1-529d-4cf3-84fc-5f5c607bd3c9,zapata.lol,available,1.99,32.49,medium,low,6,namesilo,,,29/09/2026 18:45
+999a6745-1913-4385-85f3-f89822ba11c5,lata.lol,available,1.99,32.49,high,low,4,namesilo,,,30/09/2026 12:49
 70c8cb7f-e058-48b1-baa4-73d42ea8f7c1,realm.lol,resell,,,high,low,5,,,,28/09/2026 14:39
 06bd877c-97dc-4b84-845a-c0b16165c4c5,primadonna.lol,available,1.99,,medium,low,11,name.com,,,
 279c5ee9-6164-46c4-973b-10ecbd5d74ae,tenured.lol,available,1.8,40.98,medium,low,7,namecheap,,,11/09/2026 11:43
 a42b21f5-2730-4a05-bff5-1e6733dc5fa6,sheridan.lol,premium,2660,2660,high,low,8,namesilo,,,25/09/2026 10:21
 82cc9b40-450e-436b-a809-117dbb3d7171,glinting.lol,available,1.8,40.98,medium,low,8,namecheap,,,
-4f91bc8c-1420-495f-8a11-be93a4bd5590,idiomatic.lol,available,1.8,40.98,high,low,9,namecheap,,,21/08/2026 18:07
+4f91bc8c-1420-495f-8a11-be93a4bd5590,idiomatic.lol,available,1.8,40.98,medium,low,9,namecheap,,,21/08/2026 18:07
 4cc315ed-ba67-42b9-be24-9f7c7df55ffc,diclinous.lol,available,1.8,40.98,low,low,9,namecheap,,,14/08/2026 06:34
 02d35af7-3449-4d6b-bfc9-b671531c935b,biased.lol,available,1.8,40.98,medium,low,6,namecheap,,,09/08/2026 18:36
-c63fcfd8-c041-4c8d-92b8-f3630c789903,howells.lol,available,1.24,26.08,high,low,7,spaceship,,,29/09/2026 19:11
+c63fcfd8-c041-4c8d-92b8-f3630c789903,howells.lol,available,1.24,26.08,medium,low,7,spaceship,,,29/09/2026 19:11
 5dd84e7c-9415-411d-a1f2-cb2a1c4f1ab3,wooden.lol,available,1.24,26.08,high,low,6,spaceship,,,28/09/2026 10:45
 89a616e7-9e13-429b-bd12-3e5d431b8b5b,changeless.lol,available,1.8,40.98,medium,low,10,namecheap,,,12/08/2026 01:58
 5c629aba-54b6-45ba-9f59-5957168e3688,aloud.lol,available,1.99,32.49,high,low,5,namesilo,,,25/09/2026 14:25
 9c05876e-3354-4cd1-b9d5-63c5d038ba51,explicitly.lol,available,1.8,40.98,medium,low,10,namecheap,,,14/09/2026 17:07
 54001359-3261-48a8-9280-16fbfb0da767,bedfellow.lol,available,1.99,32.49,medium,low,9,namesilo,,,22/09/2026 23:14
-61bc78ec-cde5-4303-97b2-4ad035e19c2c,matured.lol,available,1.8,40.98,high,low,7,namecheap,,,18/08/2026 17:58
+61bc78ec-cde5-4303-97b2-4ad035e19c2c,matured.lol,available,1.8,40.98,medium,low,7,namecheap,,,18/08/2026 17:58
 f186cd54-5122-44a5-a09a-118bc8dfacab,unhinge.lol,available,1.99,32.49,medium,low,7,namesilo,,,24/09/2026 22:50
 2af5e9b4-d3e4-4258-aafc-f49f4f7c626d,adultery.lol,available,1.99,32.49,medium,low,8,namesilo,,,17/09/2026 10:25
 fa4f756c-39bd-49a5-a431-a8469729b02c,acoustical.lol,available,1.8,40.98,medium,low,10,namecheap,,,
-ae828d2d-91d1-4244-bce8-e7a3b0bf511d,opener.lol,available,1.24,26.08,high,low,6,spaceship,,,28/09/2026 20:02
+ae828d2d-91d1-4244-bce8-e7a3b0bf511d,opener.lol,available,1.24,26.08,medium,low,6,spaceship,,,28/09/2026 20:02
 9717753c-bef8-4d70-8626-46aa1a62d670,comforts.lol,available,1.8,40.98,high,low,8,namecheap,,,18/09/2026 18:50
 26d97517-3a33-4845-a192-e7a3be078bb2,germfree.lol,available,1.8,40.98,medium,low,8,namecheap,,,18/08/2026 22:48
 a0acaaad-cc3b-4d67-b27d-c471b51e3d3c,hanker.lol,available,1.8,40.98,medium,low,6,namecheap,,,24/08/2026 08:57
+1d0eb974-71e0-45e5-bc08-d6502c5a85ed,ganga.lol,available,1.8,40.98,medium,low,5,namecheap,,,30/09/2026 19:38
 0dc8e307-9488-41e5-8937-6674cfba3171,favorable.lol,available,1.8,40.98,high,low,9,namecheap,,,24/09/2026 17:21
 97b9f4ea-40fb-4713-aadd-8785a710f9d3,elbe.lol,available,1.24,26.08,medium,low,4,spaceship,,,28/09/2026 19:03
 3f674d56-bc35-48f8-b2ab-0de5973c4394,inmost.lol,available,1.8,40.98,medium,low,6,namecheap,,,22/08/2026 05:51
@@ -796,10 +857,13 @@ df64137d-6e1a-4f61-82a6-77da01eb35fc,achene.lol,available,1.99,32.49,medium,low,
 fd4ae5c5-f41c-42e5-909a-112091fc370a,pans.lol,available,1.99,32.49,medium,low,4,namesilo,,,18/09/2026 08:22
 28d21e3a-90b7-4965-bc38-62e52b3fdd49,marion.lol,available,1.99,32.49,high,low,6,namesilo,,,25/09/2026 14:37
 591a387f-075b-43a3-930d-18e1f48afa94,riled.lol,available,,,medium,low,5,,,,
+1ca44710-d916-4116-88ae-f948e329fd78,legislation.lol,available,1.24,26.08,high,low,11,spaceship,,,30/09/2026 06:03
 d24e4edf-d15e-46bd-8ab1-927e894da276,trine.lol,available,1.8,40.98,medium,low,5,namecheap,,,
 60ed13be-82f0-463e-a9c2-451bd272db6f,ourselves.lol,available,1.8,40.98,medium,low,9,namecheap,,,27/09/2026 08:55
+a176df72-b3d4-4fcf-869a-10bf9c25b876,wartime.lol,available,1.8,40.98,medium,low,7,namecheap,,,30/09/2026 11:19
 31136b8f-0d46-42ea-ac5f-c119c2839075,federalists.lol,available,1.99,32.49,medium,low,11,namesilo,,,29/09/2026 11:41
-77ec3d03-f17c-4fb0-8575-b82f723036b2,shasta.lol,available,1.8,40.98,high,low,6,namecheap,,,28/09/2026 14:55
+53c47419-74c7-48d7-b27b-c68b48b11e98,assassins.lol,available,1.99,32.49,low,low,9,namesilo,,,30/09/2026 07:00
+77ec3d03-f17c-4fb0-8575-b82f723036b2,shasta.lol,available,1.8,40.98,medium,low,6,namecheap,,,28/09/2026 14:55
 28203e05-14b3-46e5-b980-9815146b805d,lubbock.lol,available,1.24,26.08,medium,low,7,spaceship,,,28/09/2026 10:18
 55b56a75-a387-4218-8bb6-ae4a9a9e2bd7,closeness.lol,available,1.99,32.49,high,low,9,namesilo,,,24/09/2026 15:57
 db601bd5-d763-4c58-b4c4-64387168b6fd,nine.lol,premium,832,832,high,low,4,namesilo,,,21/09/2026 13:23
@@ -810,8 +874,8 @@ b0576309-08a7-40ba-8de8-0aceb9af36b2,navarro.lol,available,1.24,26.08,medium,low
 ad2c1af0-cb65-4096-bf15-e3a8819fb914,burdensome.lol,available,1.8,40.98,medium,low,10,namecheap,,,11/08/2026 10:29
 dfeb892b-83bc-4cf2-b79f-bfa45dc2f86c,optionally.lol,available,1.24,26.08,medium,low,10,spaceship,,,28/09/2026 16:29
 1f3a1a26-694e-47fd-9006-7bce8daea26d,imaging.lol,available,1.8,40.98,high,low,7,namecheap,,,29/09/2026 19:16
-9d1e6aa9-319a-417b-a030-6fab7988eefd,staunch.lol,available,1.8,40.98,high,low,7,namecheap,,,10/09/2026 19:22
-a99d9389-f580-41e4-b5bf-432de5eeb71d,nappy.lol,available,1.8,40.98,high,low,5,namecheap,,,18/08/2026 16:10
+9d1e6aa9-319a-417b-a030-6fab7988eefd,staunch.lol,available,1.8,40.98,medium,low,7,namecheap,,,10/09/2026 19:22
+a99d9389-f580-41e4-b5bf-432de5eeb71d,nappy.lol,available,1.8,40.98,medium,low,5,namecheap,,,18/08/2026 16:10
 74d23115-a605-4d99-b421-943ca515be6c,aberrant.lol,available,1.8,40.98,high,low,8,namecheap,,,
 5d1e5075-d8c1-486d-815c-9560a300e7d7,heterodyne.lol,available,1.8,40.98,medium,low,10,namecheap,,,21/08/2026 07:29
 962bde75-a59d-4ac7-9104-05c321603710,exorbitant.lol,available,1.8,40.98,medium,low,10,namecheap,,,17/08/2026 17:36
@@ -824,15 +888,15 @@ b52f28f9-6e57-4f65-b20c-ae5aaec47f30,quadruple.lol,available,1.8,40.98,high,low,
 39f4b3dd-92ca-47ba-9bf4-c0952b93729d,strikingly.lol,available,1.99,32.49,high,low,10,namesilo,,,16/09/2026 07:22
 9db2585d-7031-4ecc-a69d-ec446e783a66,commode.lol,available,1.8,40.98,high,medium,7,namecheap,,,09/09/2026 00:51
 bdc89a45-027f-4ce0-b14a-9c7a2c2893de,family.lol,premium,845,845,high,medium,6,namecheap,,,25/09/2026 12:40
-1c706883-84f8-4ee2-82b1-cd8b5757b800,decca.lol,available,1.99,32.49,high,low,5,namesilo,,,28/09/2026 21:44
+1c706883-84f8-4ee2-82b1-cd8b5757b800,decca.lol,available,1.99,32.49,medium,low,5,namesilo,,,28/09/2026 21:44
 d8e6cff3-e1dd-412c-9b41-577b2a86ddb6,inpatient.lol,available,1.99,32.49,medium,low,10,namesilo,,,20/09/2026 21:46
 f4d8877b-2779-4a48-9ab6-f5ffd5d97466,dawes.lol,available,1.8,40.98,medium,low,5,namecheap,,,28/09/2026 09:30
 82f1f653-c379-4680-ab5e-74a58bc521cb,phrasal.lol,available,1.8,40.98,high,medium,7,namecheap,,,08/09/2026 19:19
-aed89793-e274-4dc5-bb13-f76cba73b7e8,dina.lol,available,1.99,32.49,high,low,4,namesilo,,,29/09/2026 15:21
+aed89793-e274-4dc5-bb13-f76cba73b7e8,dina.lol,available,1.99,32.49,medium,low,4,namesilo,,,29/09/2026 15:21
 7ff12bfc-6b50-4bd7-ac1d-b940d79a39e8,hawkes.lol,available,1.5,26.97,high,low,6,dynadot,,,29/09/2026 15:44
 3cfb5586-d8a1-4edb-8e13-24f1632d9cca,projectile.lol,available,1.8,40.98,high,low,10,namecheap,,,09/09/2026 02:59
+e42ee820-7916-4ebb-8798-365dff7015bc,declares.lol,available,1.99,32.49,medium,low,8,namesilo,,,01/10/2026 00:10
 a2be5fe8-c94c-4ad9-a487-b22a0fc985e8,kyushu.lol,available,1.99,32.49,medium,low,6,namesilo,,,29/09/2026 01:31
-0bdbbc41-a4aa-498e-8af5-a08a8aeaa19c,tribute.lol,available,,,high,low,7,,,,
 c0ec8251-00ea-4a5b-92ef-bd16cf0e1822,torturing.lol,available,1.8,40.98,medium,low,9,namecheap,,,
 604f7c78-ca63-4653-bceb-94a20b5fe4bf,legitimacy.lol,available,1.99,32.49,high,low,10,namesilo,,,21/09/2026 05:07
 64d5eefb-b98a-480b-8341-593e261e4573,composition.lol,available,1.24,26.08,high,low,11,spaceship,,,28/09/2026 22:45
@@ -849,12 +913,12 @@ d247e576-5df2-4341-9916-c97d67c371f3,itch.lol,premium,2070.2,2070.2,high,low,4,s
 b6f97c27-523d-470b-bdc5-613ee5750876,refugees.lol,available,1.24,26.08,low,low,8,spaceship,,,29/09/2026 05:48
 33b7ebc9-5ef6-4adc-88cb-72c48665187d,geographical.lol,available,1.54,26.26,high,low,12,porkbun,,,29/09/2026 21:14
 35122bd8-6029-4c74-80dc-2db91b9a85d7,rabbinic.lol,available,1.8,40.98,medium,low,8,namecheap,,,09/09/2026 09:14
-7ce306fc-7334-470f-9fa1-b970396b4367,marduk.lol,available,1.99,32.49,high,low,6,namesilo,,,21/09/2026 12:06
+7ce306fc-7334-470f-9fa1-b970396b4367,marduk.lol,available,1.99,32.49,medium,low,6,namesilo,,,21/09/2026 12:06
 368c5003-7ab0-47b2-9306-e661b4793038,dime.lol,available,1.99,32.49,high,low,4,namesilo,,,29/09/2026 14:59
 8ad6f81f-8062-4a68-bdfa-a6d605cf7249,loafer.lol,available,1.8,40.98,medium,low,6,namecheap,,,14/08/2026 14:12
-84f4ceb9-fdef-4a27-935f-5c4e4baefdf2,brushing.lol,available,1.99,32.49,high,low,8,namesilo,,,29/09/2026 04:50
+84f4ceb9-fdef-4a27-935f-5c4e4baefdf2,brushing.lol,available,1.99,32.49,medium,low,8,namesilo,,,29/09/2026 04:50
 2270f0eb-5606-480d-a5bd-0c10bbd1ac7c,grungy.lol,available,1.8,40.98,low,low,6,namecheap,,,09/08/2026 09:36
-df69f363-eca2-443d-872b-62c50dbcb86d,deletion.lol,available,1.8,40.98,high,low,8,namecheap,,,24/09/2026 21:34
+df69f363-eca2-443d-872b-62c50dbcb86d,deletion.lol,available,1.8,40.98,medium,low,8,namecheap,,,24/09/2026 21:34
 4aa7fb6f-ba0f-4e2a-a2ff-311ae2f0a28c,amenia.lol,available,1.8,40.98,medium,low,6,namecheap,,,18/09/2026 18:47
 4237666d-c7dd-4b0e-b236-323cf489ddc9,grimly.lol,available,1.8,40.98,medium,low,6,namecheap,,,14/09/2026 22:25
 5eac6e90-0008-4142-85d2-bd56c9acd0e1,backrest.lol,available,1.99,32.49,medium,low,8,namesilo,,,21/09/2026 15:47
@@ -866,7 +930,7 @@ b999c888-2730-45e6-9fbe-364b9064aa4e,mil.lol,premium,778.7,778.7,high,low,3,name
 d31e62cb-efbb-4d45-84e3-f2bd6688ac6e,vascular.lol,available,1.8,40.98,medium,low,8,namecheap,,,13/09/2026 01:33
 db771354-3640-4160-ae0e-954365f86817,sagacious.lol,available,1.8,40.98,high,low,9,namecheap,,,08/09/2026 18:02
 a86418c3-0275-461d-b540-f55e61b9ee33,amicable.lol,available,1.99,32.49,high,low,8,namesilo,,,22/09/2026 04:19
-2be32380-ebae-4aab-9966-61ecc8257239,tolkien.lol,available,1.24,26.08,high,low,7,spaceship,,,28/09/2026 19:31
+2be32380-ebae-4aab-9966-61ecc8257239,tolkien.lol,available,1.24,26.08,medium,low,7,spaceship,,,28/09/2026 19:31
 f7417728-55ba-4fb9-a09c-2c6a9b7af0a6,penrose.lol,available,1.24,26.08,medium,low,7,spaceship,,,29/09/2026 04:22
 5a1d4e60-91c1-4715-afb0-b7fb2d603688,pestilent.lol,available,1.8,40.98,low,low,9,namecheap,,,08/08/2026 12:06
 16ec42a2-4d83-485f-bce9-3cd0ea09137e,potent.lol,available,1.8,40.98,high,low,6,namecheap,,,09/09/2026 00:48
@@ -878,13 +942,15 @@ db02863f-ff34-4243-bf4f-6a80099153c4,oldham.lol,available,1.8,40.98,high,low,6,n
 e4095099-5bf4-4ac9-8190-2122074479a6,thieves.lol,available,1.8,40.98,medium,low,7,namecheap,,,16/09/2026 11:41
 52efa55f-d7a7-4311-8aea-592e94d97653,algin.lol,available,1.99,32.49,medium,low,5,namesilo,,,18/09/2026 07:04
 21dd1995-20d0-46f3-9907-707f79950fd9,shelling.lol,available,1.99,32.49,medium,low,8,namesilo,,,22/09/2026 08:00
+a99efe4f-9b21-4dd6-89a9-6db1f762fc80,supervising.lol,available,1.99,32.49,medium,low,11,namesilo,,,01/10/2026 00:08
 d6a8c0f5-8145-4c32-b765-13ada75e1105,noseless.lol,available,1.8,40.98,low,low,8,namecheap,,,03/09/2026 21:47
+84178f5b-5356-4b23-97c0-33f3ff83b529,mccauley.lol,available,1.8,40.98,medium,low,8,namecheap,,,01/10/2026 02:59
 3fe01856-9c0a-43de-86d1-9c00a93954fa,guildford.lol,available,1.99,32.49,medium,low,9,namesilo,,,29/09/2026 15:26
 27e4e395-969f-4205-be37-535425749e1b,pathogenic.lol,available,1.8,40.98,medium,low,10,namecheap,,,22/08/2026 04:17
 63f07058-f253-4d19-8e0c-cd1965d3d9d0,occident.lol,available,1.8,40.98,medium,low,8,namecheap,,,13/09/2026 10:49
-48e343c6-4796-4714-9906-5d925903c468,vladivostok.lol,available,1.99,32.49,high,low,11,namesilo,,,29/09/2026 15:13
+48e343c6-4796-4714-9906-5d925903c468,vladivostok.lol,available,1.99,32.49,medium,low,11,namesilo,,,29/09/2026 15:13
 49b0ccea-c827-4f21-953e-fec4afe24aca,puglia.lol,available,1.99,32.49,high,low,6,namesilo,,,19/09/2026 22:41
-285217f5-d709-473f-be63-7d1a7592a664,staring.lol,available,1.99,32.49,high,low,7,namesilo,,,21/09/2026 22:19
+285217f5-d709-473f-be63-7d1a7592a664,staring.lol,available,1.99,32.49,medium,low,7,namesilo,,,21/09/2026 22:19
 e38f4933-e44e-40bc-966f-11d349c1ba4e,ghastly.lol,available,1.8,40.98,medium,low,7,namecheap,,,12/08/2026 02:39
 a8d5250d-4f2d-41d4-b983-f2c8791a2090,archibald.lol,available,1.8,40.98,medium,low,9,namecheap,,,25/09/2026 18:45
 d112e598-5c08-48d5-af11-db314fb992c3,soulfully.lol,available,1.99,32.49,medium,low,9,namesilo,,,16/09/2026 05:30
@@ -894,11 +960,11 @@ d112e598-5c08-48d5-af11-db314fb992c3,soulfully.lol,available,1.99,32.49,medium,l
 4fd8036f-9fa5-4548-bf47-fb57e0a26e6b,melodic.lol,available,1.8,40.98,high,low,7,namecheap,,,24/08/2026 19:41
 147c4412-9e63-4a01-b3c6-0894ef0d51a5,patrician.lol,available,1.8,40.98,medium,low,9,namecheap,,,06/08/2026 19:34
 04f80856-2064-43f0-8410-4ef8ed8331fd,beefsteak.lol,available,1.99,32.49,high,low,9,namesilo,,,23/09/2026 01:15
-199f424c-ca0d-4646-8500-dc0d6001abf2,abalone.lol,available,1.99,32.49,high,low,7,namesilo,,,16/09/2026 13:49
+199f424c-ca0d-4646-8500-dc0d6001abf2,abalone.lol,available,1.99,32.49,medium,low,7,namesilo,,,16/09/2026 13:49
 c000375b-f4e7-4777-bd21-925d11a4f809,specifically.lol,available,1.99,32.49,high,low,12,namesilo,,,26/09/2026 00:54
 277df1eb-7b29-41b1-a30e-721bcd78ae95,soled.lol,available,1.8,40.98,medium,low,5,namecheap,,,10/09/2026 13:35
 5f931b82-ce87-41ab-bdb8-0d0b2d31f0ea,harlot.lol,available,1.99,45.99,medium,low,6,name.com,,,13/08/2026 14:19
-c9109130-a220-4dfa-8a1c-4edc3ee339a9,morally.lol,available,1.8,40.98,high,low,7,namecheap,,,15/09/2026 15:25
+c9109130-a220-4dfa-8a1c-4edc3ee339a9,morally.lol,available,1.8,40.98,medium,low,7,namecheap,,,15/09/2026 15:25
 81da91a0-7a92-43fa-a6f3-acf5469cafad,belvedere.lol,available,1.99,32.49,high,medium,9,namesilo,,,22/09/2026 12:20
 f95599a2-cd15-45f3-955e-b60dd34d1b3c,candied.lol,available,1.8,40.98,medium,low,7,namecheap,,,11/08/2026 16:48
 53892f8e-67fe-463a-b99e-6a883f6b5e36,rale.lol,available,1.8,40.98,high,medium,4,namecheap,,,09/09/2026 10:37
@@ -909,13 +975,14 @@ a09bef0e-5058-461d-8225-5ef80513e8a0,facilities.lol,available,1.5,26.97,high,low
 c3813ad7-781d-4ced-a778-e1dfd37fc85b,baritone.lol,available,1.8,40.98,medium,low,8,namecheap,,,08/08/2026 19:36
 f611d66b-ae4e-4eff-8aed-e97176ab6054,dafla.lol,available,1.99,32.49,medium,low,5,namesilo,,,16/09/2026 16:37
 4a99b868-cb78-4e6c-8c4d-0bceecb02f29,dickensian.lol,available,1.8,40.98,medium,low,10,namecheap,,,14/08/2026 06:25
-17918b8e-74f0-4c8f-b5e0-d7cf318d6554,unrest.lol,available,1.24,26.08,high,low,6,spaceship,,,30/09/2026 01:36
+17918b8e-74f0-4c8f-b5e0-d7cf318d6554,unrest.lol,available,1.24,26.08,medium,low,6,spaceship,,,30/09/2026 01:36
 b41a5e33-b66d-4162-8d76-6074c35cb749,bindery.lol,available,1.99,32.49,medium,low,7,namesilo,,,23/09/2026 17:11
 e34536e0-f3d4-4996-b98e-5cdd0b4e180d,tentative.lol,available,1.99,32.49,high,low,9,namesilo,,,27/09/2026 07:00
 a8653b8d-f641-46ac-8eb4-ec00aeb61de2,diagnostic.lol,available,1.8,40.98,high,low,10,namecheap,,,14/08/2026 05:47
 f8c29485-bc26-45e5-a2f3-8789e37da4c8,bonner.lol,available,1.24,26.08,high,low,6,spaceship,,,28/09/2026 07:28
 e927cb97-54b4-4bbd-96ba-9b174316f243,spurious.lol,available,1.8,40.98,medium,low,8,namecheap,,,09/08/2026 00:03
 60f20335-ed85-433b-a96d-e44fc47159f0,ductile.lol,available,1.8,40.98,medium,low,7,namecheap,,,14/08/2026 20:50
+2f933267-f78a-4b5e-aa6d-cd05b95fbd51,terminology.lol,available,1.99,32.49,high,low,11,namesilo,,,30/09/2026 05:58
 a790ab5d-ad52-4858-a1bc-ecbff2fb5342,rimmed.lol,available,1.8,40.98,medium,low,6,namecheap,,,09/09/2026 17:45
 504874c0-54a0-4aec-9e10-8e0ddb2185c2,dolphins.lol,premium,2200,2200,medium,low,8,dynadot,,,28/09/2026 18:14
 854423d6-e78d-4681-8948-df03709ea9a0,grandfathers.lol,available,1.99,32.49,medium,low,12,namesilo,,,20/09/2026 22:52
@@ -929,73 +996,6 @@ c14c3953-d1ec-4a4b-a36e-07a2650a9617,kauai.lol,available,1.24,26.08,high,low,5,s
 1bad7c57-2adc-4ce9-a833-b4090cea4f03,respite.lol,available,1.99,32.49,high,low,7,namesilo,,,16/09/2026 14:06
 710d3ca9-c40e-4fac-b3b6-b3764cbbf0e5,spurting.lol,available,1.8,40.98,medium,low,8,namecheap,,,22/08/2026 13:13
 867e64f7-a476-4cfa-8b04-22111789b0c7,arere.lol,available,1.8,40.98,medium,low,5,namecheap,,,20/09/2026 03:56
-6c0d4e80-7951-4a53-8b89-22bbbf05a6b0,citrin.lol,available,1.8,40.98,high,low,6,namecheap,,,23/09/2026 18:00
+6c0d4e80-7951-4a53-8b89-22bbbf05a6b0,citrin.lol,available,1.8,40.98,medium,low,6,namecheap,,,23/09/2026 18:00
 fa1362f6-e001-4ec7-a310-aa4e8961d4d4,stove.lol,available,1.8,40.98,high,low,5,namecheap,,,19/09/2026 18:48
 05cb5c39-e618-4e45-aa7c-ae267cb1e850,tetchy.lol,available,1.8,40.98,medium,low,6,namecheap,,,22/08/2026 10:31
-a5a45740-5a07-457b-90ee-6effabf1eba0,peoples.lol,resell,,,high,low,7,,,,29/09/2026 01:49
-e3834420-9d1a-414a-8705-6b9d33dca72b,prices.lol,resell,,,medium,low,6,Dynadot Inc,09/04/2021 04:54,09/04/2027 23:59,26/09/2026 08:19
-590b71b0-de4d-4cac-b437-beb7b257030c,implanted.lol,available,1.8,40.98,medium,low,9,namecheap,,,13/08/2026 22:47
-3a5c2a75-b853-417f-a885-b18199df5987,anpu.lol,available,1.99,32.49,medium,low,4,namesilo,,,19/09/2026 11:59
-3c49b44c-10af-402b-8eca-f61632f33a25,changeable.lol,available,1.8,40.98,medium,low,10,namecheap,,,12/08/2026 01:51
-f1450fed-3ed1-4b99-8e73-98afc6a21307,brachial.lol,available,1.8,40.98,medium,low,8,namecheap,,,11/08/2026 00:19
-2fba1c3d-d25a-4689-b704-64cc3671dc22,loverly.lol,available,1.8,40.98,medium,low,7,namecheap,,,24/08/2026 10:16
-458e6e10-90a7-45aa-ba0e-ac604f7d0aaa,jamaican.lol,available,1.8,40.98,high,low,8,namecheap,,,22/08/2026 12:11
-5a16481b-a0e2-4b28-b2e6-a909c4028547,deformity.lol,available,1.8,40.98,medium,low,9,namecheap,,,24/09/2026 21:21
-9ea1c8fb-8462-4c19-8bbf-efc369794763,lodi.lol,available,1.99,32.49,medium,low,4,namesilo,,,29/09/2026 15:13
-21be1048-2a2e-4aca-8df6-0978d5009576,tunguska.lol,available,1.99,32.49,medium,low,8,namesilo,,,19/09/2026 05:45
-3ac1fe04-4e32-4d07-9dbd-87f80acedaf4,barometer.lol,available,1.99,32.49,high,low,9,namesilo,,,22/09/2026 07:00
-10f18584-9b06-4b99-8090-70d9f7563567,infective.lol,available,1.8,40.98,medium,low,9,namecheap,,,22/08/2026 04:14
-dc2d64be-6fd3-4cb2-81eb-bf243df4f003,unaided.lol,available,1.8,40.98,medium,low,7,namecheap,,,12/09/2026 00:13
-2697a5f7-d9ac-442e-844e-bb092442de0e,unsuitable.lol,available,1.8,40.98,medium,low,10,namecheap,,,22/08/2026 00:19
-0e668405-8bae-456c-a656-5b3fb806a6ba,localised.lol,available,1.8,40.98,medium,low,9,namecheap,,,24/08/2026 08:47
-d0a1ed92-defc-402b-9226-642346ca4090,barytes.lol,available,1.99,32.49,medium,low,7,namesilo,,,22/09/2026 06:13
-b1b80d0e-c4e1-4cce-9cd2-f10d2a17fff3,nomination.lol,available,1.54,26.26,high,low,10,porkbun,,,28/09/2026 14:58
-cb5b6938-4d09-4670-bf1f-70048345f3f8,offend.lol,available,1.24,26.08,medium,low,6,spaceship,,,28/09/2026 18:28
-9c7264ba-eb90-4658-a4e5-9235c23a631d,indefinite.lol,available,1.99,32.49,high,low,10,namesilo,,,25/09/2026 09:08
-0307213e-8927-4fdd-9d89-71d0366dbbc2,unrelated.lol,available,1.8,40.98,medium,low,9,namecheap,,,12/09/2026 18:04
-b3e1d37b-e4e9-4cdd-8523-1f1aad2918c5,adumbrate.lol,available,1.8,40.98,medium,low,9,namecheap,,,22/08/2026 08:33
-b77e1632-07cf-48b4-bc68-7b3a2b2dc4b4,sacculated.lol,available,1.8,40.98,high,medium,10,namecheap,,,09/09/2026 20:36
-e48aab49-5f4b-43af-93ea-15227cc857f3,airburst.lol,available,1.99,32.49,medium,low,8,namesilo,,,17/09/2026 23:00
-062e9c76-8e62-4058-8c32-e0fc99e3de2b,got.lol,premium,832,832,high,low,3,namesilo,,,27/09/2026 07:08
-1e4af7bc-6852-45f8-b036-ae37cf1ccf60,boland.lol,available,1.24,26.08,medium,low,6,spaceship,,,29/09/2026 04:35
-e729b87c-6670-41e1-a3e2-98022b1f2489,grosvenor.lol,available,1.24,26.08,medium,low,9,spaceship,,,28/09/2026 16:43
-451a1e5e-f4dd-4278-9cfb-3560f6dffbb1,batfish.lol,available,1.99,32.49,medium,low,7,namesilo,,,22/09/2026 13:14
-26603282-4c8b-48e7-91e5-0343d47f9c0a,vestigial.lol,available,1.8,40.98,medium,low,9,namecheap,,,13/09/2026 04:54
-517ba18b-12d5-4ebd-a0c6-25d5eec86f77,quartet.lol,available,1.8,40.98,high,low,7,namecheap,,,
-cd588a16-b2e1-4323-b3f3-9552a14d66b4,reverting.lol,available,1.8,40.98,high,low,9,namecheap,,,09/09/2026 15:58
-cb534ef7-13e7-4b52-92e1-fbe48f4b8ba5,acrosome.lol,available,1.99,32.49,medium,low,8,namesilo,,,17/09/2026 03:58
-23ca3a7d-fd52-4104-8667-e78175e42d64,sumerian.lol,available,1.8,40.98,high,low,8,namecheap,,,11/09/2026 01:33
-181a7ad5-75f4-4ed6-b233-5a8f6b086097,graz.lol,available,1.99,32.49,medium,low,4,namesilo,,,29/09/2026 01:07
-cf48fe33-1ddf-44c9-815f-7f49277cf1e5,sunbelt.lol,available,1.99,,high,low,7,name.com,,,
-376a7238-c215-4e23-934a-d294773d7970,wabash.lol,available,1.24,26.08,medium,low,6,spaceship,,,28/09/2026 03:15
-e846ffba-ffa6-4c3b-8a35-ac92d760e0a2,blackthorn.lol,available,1.99,32.49,medium,low,10,namesilo,,,24/09/2026 03:10
-1a304366-82fe-4fc7-aead-c0290356ce2d,shrunken.lol,available,1.8,40.98,high,medium,8,namecheap,,,10/09/2026 06:58
-b5ffcc73-0858-464d-9b1b-72e061c93fd4,seekers.lol,available,1.99,32.49,medium,low,7,namesilo,,,21/09/2026 07:32
-884f181f-5b30-449e-8420-fcc1df46ed72,clapper.lol,available,1.8,40.98,medium,low,7,namecheap,,,19/09/2026 20:51
-6baa9517-c351-41cf-afe3-8f12f1ef7c5a,airdock.lol,available,1.99,32.49,medium,low,7,namesilo,,,17/09/2026 23:04
-3c2a4588-1f2e-4840-a61d-1b251f0c1491,agaricus.lol,available,1.99,32.49,medium,low,8,namesilo,,,17/09/2026 16:23
-14564e74-dd29-4671-b96c-bc13d899052f,parish.lol,available,1.8,40.98,medium,low,6,namecheap,,,28/09/2026 20:07
-d2452571-be40-4979-9194-4990c57a0c99,phyletic.lol,available,1.8,40.98,high,medium,8,namecheap,,,08/09/2026 19:22
-c9b0c744-ff2b-4172-aab1-842117da0bd9,awl.lol,available,1.8,40.98,high,low,3,namecheap,,,21/09/2026 10:07
-766b1491-a837-44ab-9048-3a2bde716409,heller.lol,available,1.24,26.08,medium,low,6,spaceship,,,28/09/2026 09:59
-f6ee4691-f3c5-400d-b744-b3c5ca2cfff2,gaudy.lol,available,1.8,40.98,medium,low,5,namecheap,,,18/08/2026 06:37
-bc2a4cba-0db1-4136-bd76-f39e5a23106f,stimulus.lol,available,1.8,40.98,high,low,8,namecheap,,,10/09/2026 20:39
-a3292f4c-c6a2-417d-b1db-36c9b3861d7c,autoloader.lol,available,1.99,32.49,medium,low,10,namesilo,,,21/09/2026 06:48
-a6e755cd-0ec2-47e9-b03e-465a85816b9f,sallow.lol,available,1.8,40.98,high,medium,6,namecheap,,,09/09/2026 20:56
-3fa5f15e-e0ec-4a81-aa57-6c804db07c62,refusal.lol,available,1.24,26.08,medium,low,7,spaceship,,,29/09/2026 02:01
-665653e2-e4b8-4d2e-b95a-8c99a8ac54ed,doorway.lol,available,1.54,26.26,high,low,7,porkbun,,,28/09/2026 18:58
-bfde0af1-c32a-43e3-888e-8055b54059f5,apar.lol,available,1.99,32.49,medium,low,4,namesilo,,,19/09/2026 16:14
-cde346a8-19f8-4172-96bc-856ca8ff3be1,rustic.lol,available,,,high,low,6,,,,
-6c5ef0c7-3bff-4b59-9a2d-f01afaad99b6,washes.lol,available,1.99,32.49,medium,low,6,namesilo,,,20/09/2026 04:54
-d174d7ed-4844-4c08-aa69-db1822367f78,astrantia.lol,available,1.99,32.49,medium,low,9,namesilo,,,20/09/2026 17:32
-df4e681c-105d-4c53-be2f-e5538750d2a8,spielberg.lol,available,1.5,26.97,high,low,9,dynadot,,,29/09/2026 13:59
-6084f2c0-0363-4a61-b6f4-ac79cdfdcc1f,muzzy.lol,available,1.8,40.98,medium,low,5,namecheap,,,10/08/2026 16:24
-b2cb6e7c-2d0a-42ba-a2c9-4f5c63aa0c20,armiger.lol,available,1.99,32.49,medium,low,7,namesilo,,,20/09/2026 06:59
-cd80be92-7675-4c53-b3ee-4faa1f41d26d,unsugared.lol,available,1.8,40.98,low,low,9,namecheap,,,12/09/2026 20:48
-f66359ef-386a-41db-a8aa-f243aef4ab59,lingually.lol,available,1.8,40.98,medium,low,9,namecheap,,,15/09/2026 12:28
-52494819-94b3-43b2-9ad7-0b27a4565ece,underdone.lol,available,1.8,40.98,medium,low,9,namecheap,,,12/09/2026 07:24
-3b86bca4-f47b-4d0d-9fbc-54e025228e39,dressy.lol,available,1.8,40.98,high,low,6,namecheap,,,14/08/2026 18:57
-0c8591f0-cfaf-4b14-8e98-bbb0e9a95bf7,airing.lol,available,1.99,32.49,high,low,6,namesilo,,,17/09/2026 23:12
-a540c3b9-3ec3-4b45-902f-858f261a2cf4,genital.lol,available,1.8,40.98,medium,low,7,namecheap,,,18/08/2026 21:40
-0b60d55f-5850-4d82-921f-f84fe3787f2e,sphalerite.lol,available,1.99,32.49,medium,low,10,namesilo,,,24/09/2026 05:44
-3ee05f5a-4434-464e-a10f-9afd66e2f4cb,northfield.lol,available,1.99,32.49,high,low,10,namesilo,,,29/09/2026 10:07
